@@ -22,6 +22,20 @@
     ]
   },
   {
+    "name": "FastMail",
+    "selector": "#main .content",
+    "copy": [
+      {
+        "title": "Privacy Policy",
+        "url": "https://www.fastmail.com/about/privacy/"
+      },
+      {
+        "title": "Terms of Service",
+        "url": "https://www.fastmail.com/about/tos/"
+      }
+    ]
+  },
+  {
     "name": "Verizon Media",
     "selector": "#site-main .content-container",
     "copy": [
