@@ -1,0 +1,24 @@
+[
+  {
+    "name": "Digital Ocean",
+    "selector": "div[data-testid=\"document_text\"]",
+    "copy": [
+      {
+        "title": "Acceptable Use Policy",
+        "url": "https://www.digitalocean.com/legal/acceptable-use-policy/"
+      },
+      {
+        "title": "Data Processing Agreement",
+        "url": "https://www.digitalocean.com/legal/data-processing-agreement/"
+      },
+      {
+        "title": "Privacy Policy",
+        "url": "https://www.digitalocean.com/legal/privacy-policy/"
+      },
+      {
+        "title": "Terms of Service",
+        "url": "https://www.digitalocean.com/legal/terms-of-service-agreement/"
+      }
+    ]
+  }
+]

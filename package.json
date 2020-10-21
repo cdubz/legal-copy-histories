@@ -1,0 +1,19 @@
+{
+  "name": "legal-copy-histories",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "author": "Christopher Charbonneau Wells <legal-copy-histories@chris-wells.net>",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "turndown": "^7.0.0"
+  },
+  "scripts": {
+    "format": "npx prettier --write *",
+    "update": "node run.js"
+  },
+  "devDependencies": {
+    "npx": "^10.2.2"
+  }
+}
