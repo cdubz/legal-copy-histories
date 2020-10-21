@@ -10,10 +10,10 @@
     "turndown": "^7.0.0"
   },
   "scripts": {
-    "format": "npx prettier --write *",
+    "format": "prettier --write \".\" \"!histories\"",
     "update": "node run.js"
   },
   "devDependencies": {
-    "npx": "^10.2.2"
+    "prettier": "^2.1.2"
   }
 }
