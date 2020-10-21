@@ -33,7 +33,10 @@ async function evaluateSource(source) {
             return
           }
 
-          const selectorHtml = content(source.selector || copy.selector).html()
+          const selectorHtml = content(source.selector || copy.selector)
+              .map(function() { return cheerio(this).html() })
+              .get()
+              .join(' ')
           if (!selectorHtml) {
             console.error("Selector did not find HTML content:", copy, source, content.html())
             return
