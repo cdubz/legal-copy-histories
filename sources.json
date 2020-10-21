@@ -48,5 +48,20 @@
         "url": "https://www.verizonmedia.com/policies/us/en/verizonmedia/terms/otos/index.html"
       }
     ]
+  },
+  {
+    "name": "Y Combinator",
+    "copy": [
+      {
+        "title": "Privacy Policy",
+        "url": "https://www.ycombinator.com/legal/",
+        "selector": "article:has(#privacy)"
+      },
+      {
+        "title": "Terms of Use",
+        "url": "https://www.ycombinator.com/legal/",
+        "selector": "article:has(#tou)"
+      }
+    ]
   }
 ]
