@@ -20,5 +20,19 @@
         "url": "https://www.digitalocean.com/legal/terms-of-service-agreement/"
       }
     ]
+  },
+  {
+    "name": "Verizon Media",
+    "selector": "#site-main .content-container",
+    "copy": [
+      {
+        "title": "Privacy Policy",
+        "url": "https://www.verizonmedia.com/policies/us/en/verizonmedia/privacy/index.html"
+      },
+      {
+        "title": "Terms of Service",
+        "url": "https://www.verizonmedia.com/policies/us/en/verizonmedia/terms/otos/index.html"
+      }
+    ]
   }
 ]

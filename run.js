@@ -7,7 +7,7 @@ const turndown = require("turndown");
 
 fs.readFile("sources.json", (err, data) => {
   if (err) {
-    console.log(err);
+    console.error(err);
   } else {
     JSON.parse(data).map((source) => evaluateSource(source));
   }
@@ -17,7 +17,7 @@ async function evaluateSource(source) {
   const td = new turndown();
   const basePath = `histories/${source.name}`;
   await fs.mkdir(basePath, { recursive: true }, (err) =>
-    err ? console.log(err) : ""
+    err ? console.error(err) : ""
   );
   source.copy.map((copy) => {
     https
@@ -28,11 +28,20 @@ async function evaluateSource(source) {
         });
         response.on("end", function () {
           const content = cheerio.load(html);
-          const markdown = td.turndown(
-            content(source.selector || copy.selector).html()
-          );
+          if (!content) {
+            console.error("Unable to load html content:", content, response)
+            return
+          }
+
+          const selectorHtml = content(source.selector || copy.selector).html()
+          if (!selectorHtml) {
+            console.error("Selector did not find HTML content:", copy, source, content.html())
+            return
+          }
+
+          const markdown = td.turndown(selectorHtml);
           fs.writeFile(`${basePath}/${copy.title}.md`, markdown, (err) =>
-            err ? console.log(err) : ""
+              err ? console.error(err) : ""
           );
         });
       })
