@@ -29,22 +29,29 @@ async function evaluateSource(source) {
         response.on("end", function () {
           const content = cheerio.load(html);
           if (!content) {
-            console.error("Unable to load html content:", content, response)
-            return
+            console.error("Unable to load html content:", content, response);
+            return;
           }
 
           const selectorHtml = content(source.selector || copy.selector)
-              .map(function() { return cheerio(this).html() })
-              .get()
-              .join(' ')
+            .map(function () {
+              return cheerio(this).html();
+            })
+            .get()
+            .join(" ");
           if (!selectorHtml) {
-            console.error("Selector did not find HTML content:", copy, source, content.html())
-            return
+            console.error(
+              "Selector did not find HTML content:",
+              copy,
+              source,
+              content.html()
+            );
+            return;
           }
 
           const markdown = td.turndown(selectorHtml);
           fs.writeFile(`${basePath}/${copy.title}.md`, markdown, (err) =>
-              err ? console.error(err) : ""
+            err ? console.error(err) : ""
           );
         });
       })

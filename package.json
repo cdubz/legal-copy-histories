@@ -1,7 +1,8 @@
 {
   "name": "legal-copy-histories",
-  "version": "1.0.0",
-  "description": "",
+  "version": "0.1.0",
+  "description": "Git scraping of various legal copy from major websites/services.",
+  "repository": "https://github.com/cdubz/legal-copy-histories.git",
   "keywords": [],
   "author": "Christopher Charbonneau Wells <legal-copy-histories@chris-wells.net>",
   "license": "MIT",
