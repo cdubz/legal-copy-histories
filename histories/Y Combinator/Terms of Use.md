@@ -1,3 +1,5 @@
+### Terms Of Use
+
 Welcome to the Y Combinator website (including all subdomains, the “**Site**”), which is operated by Y Combinator Management, LLC and its affiliates (collectively, “**Y Combinator**,” “**we**”, “**us**” and/or “**our**”). This Site provides, among other things, information about our people, organization and application process, tools for applicants to submit applications and go through the application process, forums for discussions about topics relevant to startups, and profiles of founders and companies who have participated in the Y Combinator program.
 
 _**THESE TERMS OF USE CONTAIN AN ARBITRATION AGREEMENT, WHICH WILL, WITH LIMITED EXCEPTION, REQUIRE YOU TO SUBMIT CLAIMS YOU HAVE AGAINST US TO BINDING AND FINAL ARBITRATION. UNDER THE ARBITRATION AGREEMENT, (1) YOU WILL ONLY BE PERMITTED TO PURSUE CLAIMS AGAINST Y COMBINATOR ON AN INDIVIDUAL BASIS, NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY CLASS OR REPRESENTATIVE ACTION OR PROCEEDING, AND (2) YOU WILL ONLY BE PERMITTED TO SEEK RELIEF (INCLUDING MONETARY, INJUNCTIVE, AND DECLARATORY RELIEF) ON AN INDIVIDUAL BASIS**_
