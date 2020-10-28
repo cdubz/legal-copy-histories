@@ -35,7 +35,7 @@ jobs:
           npm install
       - name: Fetch latest copy
         run: |-
-          npm run update
+          npm run update --all
       - name: Create PR for changes
         uses: peter-evans/create-pull-request@v3
         with:
