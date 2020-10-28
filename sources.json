@@ -36,6 +36,32 @@
     ]
   },
   {
+    "name": "MailChimp",
+    "selector": ".content--main",
+    "copy": [
+      {
+        "title": "Acceptable Use Policy",
+        "url": "https://mailchimp.com/legal/acceptable_use/"
+      },
+      {
+        "title": "Additional Terms",
+        "url": "https://mailchimp.com/legal/additional-terms/"
+      },
+      {
+        "title": "Data Processing Addendum",
+        "url": "https://mailchimp.com/legal/data-processing-addendum/"
+      },
+      {
+        "title": "Privacy Policy",
+        "url": "https://mailchimp.com/legal/privacy/"
+      },
+      {
+        "title": "Terms of Use",
+        "url": "https://mailchimp.com/legal/terms/"
+      }
+    ]
+  },
+  {
     "name": "Verizon Media",
     "selector": "#site-main .content-container",
     "copy": [
