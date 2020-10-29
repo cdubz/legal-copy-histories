@@ -3,7 +3,7 @@ name: Update histories
 on:
   workflow_dispatch:
   schedule:
-    - cron:  '0 1 * * *'
+    - cron: "0 1 * * *"
 
 jobs:
   update-histories:
@@ -29,13 +29,13 @@ jobs:
       - name: Set up node
         uses: actions/setup-node@v1
         with:
-          node-version: '12.x'
+          node-version: "12.x"
       - name: Install dependencies
         run: |-
           npm install
       - name: Fetch latest copy
         run: |-
-          npm run update --all
+          npm run update -- --all
       - name: Create PR for changes
         uses: peter-evans/create-pull-request@v3
         with:

@@ -8,7 +8,9 @@ const turndown = require("turndown");
 let sourceArg;
 const args = process.argv.slice(2);
 if (args.length !== 1) {
-  return console.error('Invalid argument(s). Use source name or "--all" to update all sources.');
+  return console.error(
+    'Invalid argument(s). Use source name or "-- --all" to update all sources.'
+  );
 } else {
   sourceArg = args[0];
 }
@@ -21,7 +23,7 @@ fs.readFile("sources.json", (err, data) => {
     if (sourceArg === "--all") {
       // Do nothing. Update all sources.
     } else {
-      sources = sources.filter((source) => source.name === sourceArg)
+      sources = sources.filter((source) => source.name === sourceArg);
     }
     if (sources.length > 0) {
       sources.map((source) => evaluateSource(source));
