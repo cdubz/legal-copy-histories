@@ -8,16 +8,18 @@ const turndown = require("turndown");
 let sourceArg;
 const args = process.argv.slice(2);
 if (args.length !== 1) {
-  return console.error(
+  console.error(
     'Invalid argument(s). Use source name or "-- --all" to update all sources.'
   );
+  process.exit(1);
 } else {
   sourceArg = args[0];
 }
 
 fs.readFile("sources.json", (err, data) => {
   if (err) {
-    return console.error(err);
+    console.error(err);
+    process.exit(1);
   } else {
     let sources = JSON.parse(data);
     if (sourceArg === "--all") {
@@ -28,7 +30,8 @@ fs.readFile("sources.json", (err, data) => {
     if (sources.length > 0) {
       sources.map((source) => evaluateSource(source));
     } else {
-      return console.error(`Invalid source "${sourceArg}".`);
+      console.error(`Invalid source "${sourceArg}".`);
+      process.exit(1);
     }
   }
 });
