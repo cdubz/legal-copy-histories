@@ -56,7 +56,7 @@ Without limiting the foregoing, you acknowledge and agree that Y Combinator may 
 
 **Copyright Complaints**: Y Combinator respects the intellectual property of others, and we ask our users to do the same. If you believe that your work has been copied in a way that constitutes copyright infringement, or that your intellectual property rights have been otherwise violated, you should notify Y Combinator of your infringement claim in accordance with the procedure set forth below.
 
-Y Combinator will process and investigate notices of alleged infringement and will take appropriate actions under the Digital Millennium Copyright Act (“DMCA”) and other applicable intellectual property laws with respect to any alleged or actual infringement. A written notification of claimed copyright infringement should be faxed or mailed to:
+Y Combinator will process and investigate notices of alleged infringement and will take appropriate actions under the Digital Millennium Copyright Act (“DMCA��) and other applicable intellectual property laws with respect to any alleged or actual infringement. A written notification of claimed copyright infringement should be faxed or mailed to:
 
 Y Combinator Management, LLC  
 335 Pioneer Way  
