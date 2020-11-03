@@ -11,7 +11,7 @@ This Data Processing Agreement (“DPA”) is an addendum to the Customer Terms 
 
 **“Authorized Affiliate”** means any of Customer Affiliate(s) permitted to or otherwise receiving the benefit of the Services pursuant to the Agreement.
 
-**“Control”** means an ownership, voting or similar interest representing fifty percent (50%) or more of the total interests then outstanding of the entity in question. The term **“Controlled”** shall be construed accordingly.
+**“Control”** means an ownership, voting or similar interest representing fifty percent (50%) or more of the total interests then outstanding of the entity in question. The term��**“Controlled”** shall be construed accordingly.
 
 **“Controller”** means an entity that determines the purposes and means of the processing of Personal Data.
 
