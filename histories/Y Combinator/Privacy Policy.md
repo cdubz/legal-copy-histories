@@ -47,7 +47,7 @@ We collect information that alone or in combination with other information in ou
 
 **Online Tracking and Do Not Track Signals**: We and our third party service providers may use cookies or other tracking technologies to collect information about your browsing activities over time and across different websites following your use of the Site. Our Site currently does not respond to “Do Not Track” (“DNT”) signals and operates as described in this Privacy Policy whether or not a DNT signal is received. If we do respond to DNT signals in the future, we will update this Privacy Policy to describe how we do so.
 
-**Your Choices**. On most web browsers, you will find a “help” section on the toolbar. Please refer to this section for information on how to receive a notification when you are receiving a new cookie and how to turn cookies off. Please see the links below for guidance on how to modify your web browser’s settings on the most popular browsers:
+**Your Choices**. On most web browsers, you will find a “help” section on the toolbar. Please refer to this section for information on how to receive a notification when you are receiving a new cookie and how to turn cookies off. Please see the links below for guidance on how to modify your web browser���s settings on the most popular browsers:
 
 *   [Internet Explorer](http://windows.microsoft.com/en-gb/internet-explorer/delete-manage-cookies#ie=ie-11)
     

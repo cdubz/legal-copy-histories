@@ -199,7 +199,7 @@ The Personal Information we collect may include:
 
 The information we collect automatically includes:
 
-*   **Device information**: such as your IP address, your browser, device information, unique device identifiers, mobile network information, request information (speed, frequency, the site from which you linked to us (“referring page”), the name of the website you choose to visit immediately after ours (called “exit page”), information about other websites you have recently visited and the web browser you used (software used to browse the internet) including its type and language)
+*   **Device information**: such as your IP address, your browser, device information, unique device identifiers, mobile network information, request information (speed, frequency, the site from which you linked to us (“referring page”), the name of the website you choose to visit immediately after ours (called ��exit page”), information about other websites you have recently visited and the web browser you used (software used to browse the internet) including its type and language)
 *   **Usage data**: such as information about how you interact with our emails, Mailchimp Sites, and other websites (such as the pages and files viewed, searches, operating system and system configuration information and date/time stamps associated with your usage).
 
 ###### B. Use of Personal Information
