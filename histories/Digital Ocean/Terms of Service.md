@@ -4,7 +4,7 @@ Prior TOS available [here](/legal/terms-of-service-agreement-2019/).
 Introduction
 ------------
 
-**Welcome to DigitalOcean’s Terms of Service!** The first portion of our Terms of Service is an introduction, which is structured like an FAQ and lays out some high-level concepts before diving into other terms.
+**Welcome to DigitalOcean���s Terms of Service!** The first portion of our Terms of Service is an introduction, which is structured like an FAQ and lays out some high-level concepts before diving into other terms.
 
 #### What documents make up the TOS?
 
