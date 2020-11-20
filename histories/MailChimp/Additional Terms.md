@@ -36,6 +36,157 @@ These Additional Terms do not replace Mailchimp’s [Standard Terms of Use](/leg
 
 _Effective May 30, 2019_
 
+For Custom Fonts
+----------------
+
+Please read these Additional Terms carefully before uploading a custom font to your Mailchimp account. By clicking “Upload Font” within the Mailchimp application, you are agreeing to these Additional Terms.
+
+By uploading a custom font, you represent and warrant that that you own or have all rights and licenses necessary to use, and sublicense to Mailchimp the right to use, the typeface and font software for your custom font in connection with the Mailchimp App for purposes of creating and sending your Campaigns. Pursuant to Section 24 of Mailchimp’s [Standard Terms of Use](/legal/terms/), you agree to indemnify and hold Mailchimp harmless from any losses arising directly or indirectly from a breach of the forgoing representation and warranty.
+
+_Effective September 1, 2020_
+
+For Domains
+-----------
+
+Welcome to Domains! “Domains” is a service that allows you to quickly and easily buy and register a custom domain or transfer a domain to Mailchimp all from within your Mailchimp account.
+
+Please read these Additional Terms carefully. These Additional Terms apply to your use of Domains. This is a legal agreement. By checking the box and continuing to use Domains, you are agreeing to these Additional Terms. These Additional Terms do not replace Mailchimp’s [Standard Terms of Use](/legal/terms/) (including our Acceptable Use Policy, API Guidelines, Cookie Statement, Data Processing Addendum, Copyright and Trademark Policy, and Brand Guidelines), which also apply to your use of Domains.
+
+Domains is part of the Service and your use of Domains is considered part of your use of Mailchimp. Capitalized terms used and not otherwise defined in these Additional Terms have the meanings given to those terms in our Standard Terms of Use. If you have any questions about any of our terms, feel free to contact us.
+
+###### Part A. Important Things for You to Know
+
+1.  Mailchimp may modify, suspend or discontinue Domains. Mailchimp may limit, suspend, or terminate your access to Domains at any time. And if we do so, we are not liable to you for any modification, suspension, termination, or discontinuation.
+    
+2.  Mailchimp may modify or change these Additional Terms from time to time. If we modify or change these Additional Terms in a material way, we will provide you notice that the Additional Terms have changed. Any modifications or changes will be effective immediately and apply to your continued use of Domains.
+    
+3.  We offer HTTPS encryption for your domain. By purchasing a domain, you allow us to maintain a certificate in order to provide HTTPS for your domain.
+    
+4.  If you’ve purchased a domain, you can build and create a Website.
+    
+5.  We do not offer domain registration services for users in Russia and Ukraine at this time.
+    
+
+###### Part B: Domain Registration
+
+1.  Mailchimp is selling domains through a third-party registrar. As such, Mailchimp is a “Reseller” and you, the purchaser of a domain, are a “Registrant”. The third-party registrar that we use is Tucows Inc. (the “Registrar”). When you register, purchase, renew, or transfer a domain through Mailchimp, you agree to be bound by the Registrar’s [terms of service](https://opensrs.com/wp-content/uploads/Tucows_ExhibitA.html) as the “Registrant” thereunder, in addition to these Additional Terms. A breach of the Registrar’s terms of service is a breach of these Additional Terms.
+    
+2.  As a Registrant, you are subject to the policies and procedures set forth by the Internet Corporation for Assigned Names and Numbers (“ICANN”). ICANN governs the relationship between the Registrar and the Registrant. The rights and responsibilities you have when you purchase a domain are located [here](https://www.icann.org/resources/pages/responsibilities-2014-03-14-en). ICANN also provides helpful educational information for Registrants [here](https://www.icann.org/resources/pages/educational-2012-02-25-en).
+    
+3.  We are not responsible for the Registrar’s or ICANN’s actions or links as a third-party service.
+    
+4.  When you purchase a domain, you must provide certain personal information for registration. This registration information will be shared with our Registrar and the relevant authoritative registry services provider for your domain as set forth in the Registrar’s terms of service. We will process personal information in accordance with our Privacy Policy and as required to comply with applicable laws and regulations, including those set forth by ICANN.
+    
+5.  As the Mailchimp account holder, you will remain the Registrant and contact on record for your domain. You will ensure that your contact information is accurate and up to date at all times. As the Registrant, you are responsible for resolving any problems associated with your domain.
+    
+6.  If there is an ownership dispute of a domain, we reserve the right to determine the rightful owner. We may suspend any account associated with a dispute.
+    
+
+###### Part C: Payment
+
+1.  Domains is an add-on to your Mailchimp plan and will be billed as such (please see Section 12 of our Standard Terms of Use for more information regarding add-ons). Our fees for domains are set forth [here](/help/about-domain-purchasing/#Available_domains). We will bill you prior to your domain’s annual renewal.
+    
+2.  To provide uninterrupted service, we will automatically renew your domain unless you opt out of automatic renewal. If you would like to disable automatic renewal after purchasing a domain, please contact customer support. We or the Registrar will email you notices thirty (30) days and five (5) days prior to your domain’s renewal date as well as three (3) days after your domain expires. If you do not pay the renewal fees, your domain registration will expire and we may unpublish your Website.
+    
+3.  Please keep your billing information up to date at all times to avoid any registration problems. If there is a billing dispute, you must resolve the dispute before expiration of the domain, or else your domain registration will expire and we may unpublish your Website.
+    
+4.  You acknowledge and agree that your rights and interest in a domain cease upon non-payment and expiration of your domain.
+    
+5.  You may transfer your domain to another reseller by contacting customer support. However, you may not transfer your domain within the first sixty (60) days following the registration of your domain. We will not provide you any refund if you decide to transfer your domain.
+    
+6.  Upon termination of your Mailchimp account, any domain purchased through Mailchimp will no longer automatically renew. As such, it will be your responsibility to transfer your domain prior to cancelling your Mailchimp account. If you fail to transfer your domain prior to termination of your account, you will not be able to access your Website and your domain will expire.
+    
+
+###### Part D: Liability
+
+1.  You are responsible for understanding and complying with all applicable laws, rules, and regulations and determining whether our Service, including Domains, is suitable for you in light of such laws, rules, and regulations.
+    
+2.  We cannot guarantee the security of every data transmission over the internet.
+    
+3.  You agree to indemnify and hold us and our Team harmless from any losses, including legal fees and expenses, arising out of or that otherwise result from your use of Domains or from a third party’s use of your domain.
+    
+
+_Effective April 7, 2020_
+
+For Email Services
+------------------
+
+Welcome to Email Services! “Email Services” allow you to get an email address to match your domain. Mailchimp currently offers two Email Services: “Email Forwarding,” which is a service that allows you to create a unique email address with your purchased custom domain that will forward email to your own personal email account, and “Google Workspace Integration,” which is an integration with Google Workspace that allows you to send and receive emails through a custom email address and Gmail inbox, and also includes access to other Google products, like Google Calendar.
+
+Please read these Additional Terms carefully. These Additional Terms apply to your use of Email Services. This is a legal agreement. By continuing to use Email Services, you are agreeing to these Additional Terms. These Additional Terms do not replace Mailchimp’s Standard Terms of Use (including our Acceptable Use Policy, API Guidelines, Cookie Statement, Data Processing Addendum, Copyright and Trademark Policy, and Brand Guidelines), which also apply to your use of Email Services.
+
+Email Services is part of the Service and your use of Email Services is considered part of your use of Mailchimp. Capitalized terms used and not otherwise defined in these Additional Terms have the meanings given to those terms in our Standard Terms of Use. If you have any questions about any of our terms, feel free to contact us.
+
+###### Part A. Important Things for You to Know
+
+1.  Mailchimp may modify, suspend or discontinue Email Services at any time. Mailchimp may limit, suspend, or terminate your access to Email Services at any time. And if we do so, we are not liable to you for any modification, suspension, termination, or discontinuation.
+2.  Mailchimp may modify or change these Additional Terms from time to time. If we modify or change these Additional Terms in a material way, we will provide you notice that the Additional Terms have changed. Any modifications or changes will be effective immediately and apply to your continued use of Email Services.
+
+###### Part B: Email Forwarding
+
+1.  We do not offer Email Forwarding for users in Russia and Ukraine at this time.
+2.  Email Forwarding is provided through our third-party Registrar, Tucows Inc. When you enable email forwarding through Mailchimp, you agree to be bound by Tucows’ [Acceptable Use Policy](https://opensrs.com/wp-content/uploads/emailaup.html), in addition to these Additional Terms and Mailchimp’s [Acceptable Use Policy](/legal/acceptable_use/). A breach of the Tucows’ terms is a breach of these Additional Terms.
+3.  Tucows reserves the right at any time to change or discontinue any of its products. We are not responsible for Tucows�� actions or links as a third-party service.
+4.  By enabling Email Forwarding, you acknowledge and consent to your contact details being passed to and stored by each of Mailchimp and Tucows. This information will be processed by Mailchimp in accordance with our [Privacy Policy](/legal/privacy/).
+5.  Email Forwarding is available with a purchased domain. You must maintain an active domain with Mailchimp in order to use Email Forwarding. If you upgrade to the Google Workspace Integration, Email Forwarding will no longer be available.
+6.  We reserve the right to charge for Email Forwarding with prior written notice.
+
+###### Part C. Google Workspace Integration
+
+1.  By using the Google Workspace Integration, you acknowledge that you have reviewed and agree to comply with Google’s [Google Workspace Agreement](https://workspace.google.com/terms/2013/1/premier_terms.html) (the “Google Workspace Agreement”), that you are the “Customer” under the Google Workspace Agreement, and that your purchase of the Google Workspace Integration through the Service constitutes an “Order Form” for purposes of the [Google Workspace Agreement](https://gsuite.google.com/terms/2013/1/premier_terms.html?_ga=2.254025160.1355517214.1600206594-682632227.1592414644&_gac=1.204783908.1599599264.EAIaIQobChMIivr8ybva6wIV9j6tBh2htQy0EAAYASAAEgKcxfD_BwE).
+2.  Google reserves the right at any time without notice to change or discontinue any of its products. We are not responsible for Google’s actions or links as a third-party service.
+3.  By enabling the Google Workspace Integration, you acknowledge and consent to your contact details being passed to and stored by each of Mailchimp and Google. This information will be processed by Mailchimp in accordance with our [Privacy Policy](/legal/privacy/). This information will be processed by Google in accordance with the Google Workspace Agreement and: (i) as required to execute any non-standard orders; (ii) for purposes related to the provisioning of Google’s product(s) to your account(s), including in relation to any product updates or security incidents; (iii) as required to ensure that you are notified of available options to maintain continuity in product provisioning; and (iv) to conduct customer service and satisfaction surveys.
+4.  For billing-related support for the Google Workspace Integration, please contact Mailchimp’s support team [here](https://admin.mailchimp.com/support/). For all other support inquiries, please contact Google directly [here](https://workspace.google.com/support/).
+
+###### Part D. Payment Terms
+
+1.  The Google Workspace Integration is an add-on to your Mailchimp account and will be billed as such (please see Section 12 of our [Standard Terms of Use](/legal/terms/) for more information regarding add-ons).
+2.  When purchasing and registering a domain with Mailchimp or transferring a domain to Mailchimp, you may purchase the Google Workspace Integration.
+3.  Pricing for the Google Workspace Integration subscription is available in-app at point of purchase. All prices included on this page are exclusive of applicable taxes.
+4.  When you sign up for the Google Workspace Integration (“Sign Up”), you will select an annual plan (“Annual Google Workspace Plan”) or monthly plan (“Monthly Google Workspace Plan”). When you sign up for a Monthly Google Workspace Plan or Annual Google Workspace Plan, you agree to monthly or annual recurring billing, as described in these Additional Terms. All fees paid are non-refundable.
+5.  If you select an Annual Google Workspace Plan:
+    
+    *   You will be billed for the annual price for your Annual Google Workspace Plan in advance on your Sign Up date.
+    *   **Your Annual Google Workspace Plan will automatically renew, and you will be billed, for successive Annual Google Workspace Plans on each anniversary of the Sign Up date thereafter unless and until you contact Mailchimp’s support team [here](https://admin.mailchimp.com/support/) and cancel your Annual Google Workspace Plan at least one (1) day prior to such one (1) year anniversary.**
+6.  If you select a Monthly Google Workspace Plan:
+    
+    *   If you have a Monthly Plan (as that term is defined in our [Standard Terms of Use](/legal/terms/)) and your Sign Up date is any day other than your Pay Date (as that term is defined in our [Standard Terms of Use](/legal/terms/)), you will be billed on your Sign Up date for a payment that is prorated based on the number of days between your Sign Up date and the first Pay Date following your Sign Up date (the “First Pay Date”), and then you will be billed for the monthly price for your Monthly Google Workspace Plan in advance on the First Pay Date; if your Sign Up date is the same day as your First Pay Date, you will be billed for the monthly price for your Monthly Google Workspace Plan in advance on that Pay Date.
+    *   If you have a Free Plan (as that term is defined in our [Standard Terms of Use](/legal/terms/)), you will be billed for the monthly price for your Monthly Google Workspace Plan in advance on your Sign Up date, and that date will constitute your “First Pay Date” for purposes of these Additional Terms. If you purchase a Monthly Plan at any time thereafter, we will adjust your billing to align your payment dates for your Monthly Google Workspace Plan with your Pay Date, and your first payment for your Monthly Google Workspace Plan after you purchase a Monthly Plan will be adjusted accordingly.
+    *   **Your Monthly Google Workspace Plan will automatically renew, and you will be billed for successive Monthly Google Workspace Plans on each Pay Date thereafter unless and until you contact Mailchimp’s support team [here](https://admin.mailchimp.com/support/) and cancel your Monthly Google Workspace Plan at least one (1) day prior to such Pay Date.**
+7.  Any purchase of an Annual Google Workspace Plan or Monthly Google Workspace Plan includes only one (1) seat (the “Included Seat”). You are able to purchase additional seats by contacting Mailchimp’s support team [here](https://admin.mailchimp.com/support/), and any purchased additional seats will run concurrently in term (i.e., monthly or annual, depending on whether you purchased a Monthly Google Workspace Plan or Annual Google Workspace Plan) with the Included Seat (and any payment therefor will be prorated accordingly).
+    
+8.  If your payment method fails at any time, we or Google may temporarily or permanently suspend your access to and the functionality of the Google Workspace Integration.
+9.  We may modify or change our fees and pricing structure for the Google Workspace Integration at any time.
+10.  No refunds will be granted for the Google Workspace Integration for any reason.
+11.  You agree to make all payments owed for your Google Workspace Integration in accordance with these Additional Terms and our [Standard Terms of Use](/legal/terms/).
+
+###### Part E: Use
+
+You agree to use the Google Workspace Integration in accordance with Google’s [Google Workspace Acceptable Use Policy](https://gsuite.google.com/intl/en/terms/use_policy.html). You also agree not to use Email Forwarding to:
+
+1.  send any content that is unlawful, harmful, threatening, abusive, vulgar, invasive of another’s privacy or otherwise objectionable;
+2.  forge headers or otherwise manipulate identifiers in order to disguise the origin of any content;
+3.  transmit any content that you do not have a right to make available;
+4.  transmit through Email Forwarding any junk email, viruses or bulk email;
+5.  allow your systems to serve as an open relay;
+6.  interfere with or disrupt the email services or any networks connected to Email Forwarding;
+7.  transmit obscene or pornographic material;
+8.  take any action that imposes an unreasonable or disproportionately large load on the Tucows’s infrastructure providing Email Forwarding;
+9.  impersonate any person or entity or falsely state or otherwise misrepresent an affiliation with a person or entity;
+10.  use Email Forwarding for any purpose that is in violation of any applicable law or is otherwise an infringement on the rights of any person or entity;
+11.  modify, decompile, reverse engineer, disassemble or reproduce any of the Tucows’ licensed or owned software, systems, applications or components used in providing Email Forwarding;
+12.  use deceptive, misleading or unethical practices that are or might be detrimental to Mailchimp, Tucows, or the general public; or
+13.  use the service in any way as otherwise prohibited by Tucows’ [Acceptable Use Policy](https://opensrs.com/wp-content/uploads/emailaup.html).
+
+###### Part F: Liability
+
+1.  You are responsible for understanding and complying with all applicable laws, rules, and regulations and determining whether our Service, including Email Services, is suitable for you in light of such laws, rules, and regulations.
+2.  We cannot guarantee the security of every data transmission over the internet.
+3.  Email Services are provided “as-is” with no warranty of any kind.
+4.  You agree to indemnify and hold us and our Team harmless from any losses, including legal fees and expenses, arising out of or that otherwise result from your use of Email Services or from a third party’s use of your domain.
+
+_Effective November 19th, 2020_
+
 For Facebook and Instagram Ad Buying Through Mailchimp
 ------------------------------------------------------
 
@@ -162,6 +313,17 @@ If you violate these Additional Terms, Mailchimp’s [Standard Terms of Use](/le
 
 _Updated May 30, 2019_
 
+For Landing Pages Templates
+---------------------------
+
+Please read these Additional Terms carefully before using any landing pages templates (“Templates”). By clicking “Accept” within the Mailchimp application and using Templates you are agreeing to these Additional Terms.
+
+Certain of these Templates contain images that Mailchimp has obtained from [Pexels](https://www.pexels.com/) and [Unsplash](https://unsplash.com/) (“Stock Images”) pursuant to public licenses, which can be found [here](https://www.pexels.com/photo-license/) and [here](https://unsplash.com/license). Pexels and Unsplash are not affiliates, partners, agents, or representatives of Mailchimp. Mailchimp does not own these Stock Images and does not make any guarantees, representations or warranties of any kind to you regarding the ownership or content of, or your rights to use, any Stock Images. You are solely responsible for your use of Stock Images on Templates and any losses or liabilities associated with that use. By using Templates, you agree to comply with all of Pexels’ and Unsplash’s terms and conditions, which can be found [here](https://www.pexels.com/terms-of-service/) and [here](https://unsplash.com/terms), including any restrictions on use contained therein. You also agree to indemnify and hold Mailchimp harmless from and against any and all claims, liabilities or losses, including all legal fees and expenses, arising out of or that otherwise result from your use of any Stock Images on Templates, including any claim of violation or infringement, or actual violation or infringement, of third party rights (such as intellectual property rights).
+
+These Additional Terms do not replace Mailchimp’s [Standard Terms of Use](/legal/terms/) (including our Data Processing Addendum, Cookie Statement, Acceptable Use Policy, API Guidelines, Copyright and Trademark Policy, and Brand Guidelines), and the [Standard Terms of Use](/legal/terms/) continue to apply to your use of Templates. The ability to create a landing page and use Templates is considered part of the Service offered by Mailchimp (as defined in our [Standard Terms of Use](/legal/terms/)).
+
+_Effective May 30, 2019_
+
 For Landing Pages and Websites Cookies, Pixels & Tracking Technologies
 ----------------------------------------------------------------------
 
@@ -175,16 +337,68 @@ These Additional Terms do not replace Mailchimp’s [Standard Terms of Use](/leg
 
 _Updated June 17, 2019_
 
-For Landing Pages Templates
----------------------------
+For Mobile SDK
+--------------
 
-Please read these Additional Terms carefully before using any landing pages templates (“Templates”). By clicking “Accept” within the Mailchimp application and using Templates you are agreeing to these Additional Terms.
+Welcome to the Mobile SDK Beta! The Mobile SDK is a feature that allows you to collect information about your contacts’ interactions with your mobile application and send personalized Campaigns based on those interactions.
 
-Certain of these Templates contain images that Mailchimp has obtained from [Pexels](https://www.pexels.com/) and [Unsplash](https://unsplash.com/) (“Stock Images”) pursuant to public licenses, which can be found [here](https://www.pexels.com/photo-license/) and [here](https://unsplash.com/license). Pexels and Unsplash are not affiliates, partners, agents, or representatives of Mailchimp. Mailchimp does not own these Stock Images and does not make any guarantees, representations or warranties of any kind to you regarding the ownership or content of, or your rights to use, any Stock Images. You are solely responsible for your use of Stock Images on Templates and any losses or liabilities associated with that use. By using Templates, you agree to comply with all of Pexels’ and Unsplash’s terms and conditions, which can be found [here](https://www.pexels.com/terms-of-service/) and [here](https://unsplash.com/terms), including any restrictions on use contained therein. You also agree to indemnify and hold Mailchimp harmless from and against any and all claims, liabilities or losses, including all legal fees and expenses, arising out of or that otherwise result from your use of any Stock Images on Templates, including any claim of violation or infringement, or actual violation or infringement, of third party rights (such as intellectual property rights).
+Please read these Additional Terms carefully. These Additional Terms and the license agreement located [here](/legal/mailchimp-mobile-sdk-license-agreement/) (the “License Agreement”) apply to your participation in the beta and your use of the software development kit, including any upgrades, modified versions, updates, additions, and copies of the foregoing (the “Mobile SDK”). By clicking “Generate Client Key” and accessing the Mobile SDK, you are agreeing to these Additional Terms and the License Agreement. If you are agreeing to be bound by these Additional Terms and the License Agreement on behalf of your employer other or entity, you represent and warrant that you have full legal authority to bind your employer or such entity to these Additional Terms and the License Agreement. If you do not have the requisite authority, you may not accept these Additional Term or the License Agreement, and you may not use the Mobile SDK on behalf of your employer or other entity.
 
-These Additional Terms do not replace Mailchimp’s [Standard Terms of Use](/legal/terms/) (including our Data Processing Addendum, Cookie Statement, Acceptable Use Policy, API Guidelines, Copyright and Trademark Policy, and Brand Guidelines), and the [Standard Terms of Use](/legal/terms/) continue to apply to your use of Templates. The ability to create a landing page and use Templates is considered part of the Service offered by Mailchimp (as defined in our [Standard Terms of Use](/legal/terms/)).
+These Additional Terms do not replace Mailchimp’s [Standard Terms of Use](/legal/terms/) (including our Acceptable Use Policy, API Guidelines, Cookie Statement, Data Processing Addendum, Copyright and Trademark Policy, and Brand Guidelines), which also apply to your use of the Mobile SDK.
 
-_Effective May 30, 2019_
+Unless expressly stated otherwise, the capitalized words in this document mean the same thing as they do in our [Standard Terms of Use](/legal/terms/).
+
+#### Part A: Important Things for You to Know
+
+You understand and agree that:
+
+1.  Mailchimp may modify, suspend or discontinue the Mobile SDK at any time. Mailchimp may limit, suspend, or terminate your access to the Mobile SDK at any time, with or without cause. And if we do so, we are not liable to you for any modification, suspension, termination, or discontinuation.
+2.  Mailchimp may modify or change these Additional Terms from time to time.
+3.  You are responsible for understanding and complying with all applicable laws, rules, codes and regulations (including, without limitation, those related to data privacy) currently in effect, as they are amended and as they become effective, that are applicable to your use of the Mobile SDK.
+4.  If you accept these Additional Terms, you will be participating in and using the Beta version of the Mobile SDK. “Beta” means a feature, function, or technology that Mailchimp is making available to you that has not been made generally available to all of our Members or the public and that is for evaluation or testing purposes only. You may provide or we may ask you to provide feedback on the Mobile SDK. To obtain the feedback, we may ask you to participate in a phone call or video conference from time to time (collectively, the “Discussions”). You understand that the Discussions may be recorded and you hereby consent to such recording. We may use any feedback (including any feedback provided in the Discussions) you choose to provide to improve the Mobile SDK or to develop new features and services. You understand that you will not receive any compensation for your feedback or suggestions. You grant us a royalty-free, worldwide, irrevocable, perpetual license to use and incorporate your feedback and suggestions into the Mobile SDK or the Service.
+
+#### Part B: Your use of the Mobile SDK
+
+1.  You agree to use the Mobile SDK and write applications only for purposes that are permitted by (a) the License Agreement, (b) these Additional Terms and (c) any applicable law, regulation or generally accepted practices or guidelines in the relevant jurisdictions (including any laws regarding the export of data or software to and from the United States or other relevant countries).
+2.  You agree that you are responsible for understanding and complying with all applicable laws, statutes, rules, regulations and codes (including, without limitation, those related to tax and data privacy) currently in effect, as they are amended and as they become effective, that are applicable to your use and collection of your end-users’ data with the Mobile SDK. You are further responsible for determining whether the Mobile SDK is suitable for you in light of such laws, statutes, rules, regulations and codes. You represent, warrant and covenant that you have provided notice and obtained (or will obtain) all consents and rights necessary under applicable data privacy laws in connection with your use of the Mobile SDK. You shall have sole responsibility for the accuracy, quality, and legality of your use and collection of your end-users’ data with the Mobile SDK.
+3.  You agree that you will not engage in any activity with the Mobile SDK, including the development or distribution of an application, that interferes with, disrupts, damages, or accesses in an unauthorized manner the servers, networks, or other properties or services of any third-party including, but not limited to, Mailchimp or any mobile communications carrier.
+4.  You agree that you are solely responsible for (and that Mailchimp has no responsibility to you or to any third-party for) any breach of your obligations under the License Agreement, any applicable third-party contract or terms of service, or any applicable law or regulation, and you agree to indemnify and defend us against all costs, claims, and liability that we may suffer or incur in connection with any such breach.
+
+#### Part C: Third-Party Software
+
+The Mobile SDK may include open source software or third-party software. Any such software is made available to you under the terms of the applicable licenses. Please review the applicable notices and license terms [here](/legal/third-party-software-licenses/) related to the Mobile SDK. You are not authorized to combine and distribute the Mobile SDK with any third-party software that results in a GNY General Public License, an Affero General Public License or any other copyleft licenses.
+
+#### Part D: Export Controls
+
+THE MOBLE SDK IS SUBJECT TO UNITED STATES EXPORT LAWS AND REGULATIONS. YOU MUST COMPLY WITH ALL DOMESTIC AND INTERNATIONAL EXPORT LAWS AND REGULATIONS THAT APPLY TO THE MOBILE SDK. THESE LAWS INCLUDE RESTRICTIONS ON DESTINATIONS, END-USERS AND END USE.
+
+#### Part E: General Legal Terms
+
+The Additional Terms and the License Agreement represent the complete agreement concerning this license between you and Mailchimp and supersedes all prior agreements and representations between them. If there is conflicting language between these Additional Terms, the License Agreement and any other agreement governing your use of the Mobile SDK, the terms of the License Agreement will control. As used herein, the terms “include” and “including” mean “including without limitation.”
+
+_Effective: April 1, 2020_
+
+For Payment Content Block
+-------------------------
+
+Please read these Additional Terms carefully before enabling payment processing on your landing page(s) and/or Website(s) (the “Feature”). By clicking “Connect” within the Mailchimp application and enabling the Feature, you are agreeing to these Additional Terms.
+
+You understand and agree:
+
+1.  Mailchimp may modify, change, or discontinue the Feature at any time.
+2.  Mailchimp may refuse service or limit, suspend, or terminate your use of the Feature at any time, with or without cause.
+3.  You may discontinue your use of the Feature at any time.
+4.  Mailchimp may modify or change these Additional Terms from time-to-time. When we change these Additional Terms, we will post the revised Additional Terms [here](/legal/additional-terms/). For this reason, you should review these Additional Terms often. Any changes will be effective immediately and will apply to your continued use of the Feature.
+5.  The Feature allows you to process your customers’ payments via Square, Stripe, PayPal, or Venmo (each a “Payment Processor”), as applicable. By using the Feature, you also agree to comply with all of [Square’s](https://squareup.com/us/en/legal/general/ua), [Stripe’s](https://stripe.com/ssa), [PayPal's](https://www.paypal.com/us/webapps/mpp/ua/useragreement-full), and [Venmo's](https://venmo.com/legal/us-user-agreement) policies, as aplicable. You acknowledge that all payment and financial information provided by your customer who is using payment processing will pass directly to the Payment Processor, as applicable.
+6.  By enabling the Feature, you acknowledge and consent to certain information related to your account and your customers, including your customers’ identification and transaction data and your inventory data, being passed to and stored by each of Mailchimp and the Payment Processor. This information will be further processed by Mailchimp in accordance with our [Privacy Policy](/legal/privacy/). If you discontinue your use of the Feature, this data will remain in your Mailchimp account unless and until it is deleted by you or required to be deleted by Mailchimp, or until you close your account.
+7.  You are responsible for understanding and complying with all applicable laws, statutes, rules, regulations and codes (including, without limitation, those related to tax and data privacy) currently in effect, as they are amended and as they become effective, that are applicable to your use of the Feature. You are further responsible for determining whether our Service, including the Feature, is suitable for you in light of such laws, statutes, rules, regulations and codes. You represent, warrant and covenant that you have provided notice and obtained (or will obtain) all consents and rights necessary under Privacy Laws. “Privacy Laws” means all applicable international, federal, state, provincial and local laws, rules, regulations, directives and governmental requirements currently in effect, as they are amended and as they become effective relating in any way to cybersecurity or the privacy, confidentiality or security or processing of personal data or personal information including, without limitation, the Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 (GDPR) and more specific rules or laws by member state laws. Without limiting the foregoing, you will not, in any event, access or use the Feature to permit or facilitate corruption, theft, or fraud of any kind.
+8.  When using Stripe payment processing, you agree that you will not permit processing of payments for any activities listed on Stripe’s Prohibited Business List, [here](https://stripe.com/us/restricted-businesses).
+9.  No Payment Processor is an affiliate, partner, agent, or representative of Mailchimp. You understand and agree that Mailchimp is an independent party and has no right, responsibility, or ability to control, direct, or influence any action, inaction, conduct, or decision made by the Payment Processor.
+10.  The Payment Processor is solely responsible for all activities, issues and disputes related to payment processing enabled via the Feature, including payment receipt, refunds, chargebacks, and taxes. You and your customers should contact the Payment Processor directly to resolve any issues related to the foregoing. All payment information provided by your customers using the Feature will be passed directly to the Payment Processor, and Mailchimp will not have access to that information. Mailchimp does not manage and is not responsible for the PCI-DSS compliance obligations and efforts of the Payment Processor.
+
+These Additional Terms do not replace Mailchimp’s standard [Terms of Use](/legal/terms/) (including our Privacy Policy, Acceptable Use Policy, API Guidelines, Copyright Policy, and Brand Guidelines), and the standard [Terms of Use](/legal/terms/) continue to apply once you have enabled the Feature. The ability to use the Feature is considered part of the Service offered by Mailchimp (as defined in our standard [Terms of Use](/legal/terms/)).
+
+_Updated September 8, 2020_
 
 For Postcards
 -------------
@@ -235,184 +449,36 @@ If you do not comply with these Additional Terms or any other Mailchimp terms: (
 
 _Effective May 30, 2019_
 
-For Payment Content Block
--------------------------
+For Preferences Center Builder
+------------------------------
 
-Please read these Additional Terms carefully before enabling payment processing on your landing page(s) and/or Website(s) (the “Feature”). By clicking “Connect” within the Mailchimp application and enabling the Feature, you are agreeing to these Additional Terms.
+“Preferences Center Builder” is a service that allows you to quickly and easily build a preferences center for your Contacts all from within your Mailchimp account.
 
-You understand and agree:
+Please read these Additional Terms carefully. These Additional Terms apply to your use of the Preferences Center Builder. This is a legal agreement. By using the Preferences Center Builder, you are agreeing to these Additional Terms. These Additional Terms do not replace Mailchimp’s [Standard Terms of Use](/legal/terms/ "Standard Terms of Use") (including our Acceptable Use Policy, API Use Policy, Cookie Statement, Data Processing Addendum, Copyright and Trademark Policy, and Brand Guidelines), which also apply to your use of the Preferences Center Builder.
 
-1.  Mailchimp may modify, change, or discontinue the Feature at any time.
-2.  Mailchimp may refuse service or limit, suspend, or terminate your use of the Feature at any time, with or without cause.
-3.  You may discontinue your use of the Feature at any time.
-4.  Mailchimp may modify or change these Additional Terms from time-to-time. When we change these Additional Terms, we will post the revised Additional Terms [here](/legal/additional-terms/). For this reason, you should review these Additional Terms often. Any changes will be effective immediately and will apply to your continued use of the Feature.
-5.  The Feature allows you to process your customers’ payments via Square, Stripe, PayPal, or Venmo (each a “Payment Processor”), as applicable. By using the Feature, you also agree to comply with all of [Square’s](https://squareup.com/us/en/legal/general/ua), [Stripe’s](https://stripe.com/ssa), [PayPal's](https://www.paypal.com/us/webapps/mpp/ua/useragreement-full), and [Venmo's](https://venmo.com/legal/us-user-agreement) policies, as aplicable. You acknowledge that all payment and financial information provided by your customer who is using payment processing will pass directly to the Payment Processor, as applicable.
-6.  By enabling the Feature, you acknowledge and consent to certain information related to your account and your customers, including your customers’ identification and transaction data and your inventory data, being passed to and stored by each of Mailchimp and the Payment Processor. This information will be further processed by Mailchimp in accordance with our [Privacy Policy](/legal/privacy/). If you discontinue your use of the Feature, this data will remain in your Mailchimp account unless and until it is deleted by you or required to be deleted by Mailchimp, or until you close your account.
-7.  You are responsible for understanding and complying with all applicable laws, statutes, rules, regulations and codes (including, without limitation, those related to tax and data privacy) currently in effect, as they are amended and as they become effective, that are applicable to your use of the Feature. You are further responsible for determining whether our Service, including the Feature, is suitable for you in light of such laws, statutes, rules, regulations and codes. You represent, warrant and covenant that you have provided notice and obtained (or will obtain) all consents and rights necessary under Privacy Laws. “Privacy Laws” means all applicable international, federal, state, provincial and local laws, rules, regulations, directives and governmental requirements currently in effect, as they are amended and as they become effective relating in any way to cybersecurity or the privacy, confidentiality or security or processing of personal data or personal information including, without limitation, the Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 (GDPR) and more specific rules or laws by member state laws. Without limiting the foregoing, you will not, in any event, access or use the Feature to permit or facilitate corruption, theft, or fraud of any kind.
-8.  When using Stripe payment processing, you agree that you will not permit processing of payments for any activities listed on Stripe’s Prohibited Business List, [here](https://stripe.com/us/restricted-businesses).
-9.  No Payment Processor is an affiliate, partner, agent, or representative of Mailchimp. You understand and agree that Mailchimp is an independent party and has no right, responsibility, or ability to control, direct, or influence any action, inaction, conduct, or decision made by the Payment Processor.
-10.  The Payment Processor is solely responsible for all activities, issues and disputes related to payment processing enabled via the Feature, including payment receipt, refunds, chargebacks, and taxes. You and your customers should contact the Payment Processor directly to resolve any issues related to the foregoing. All payment information provided by your customers using the Feature will be passed directly to the Payment Processor, and Mailchimp will not have access to that information. Mailchimp does not manage and is not responsible for the PCI-DSS compliance obligations and efforts of the Payment Processor.
-
-These Additional Terms do not replace Mailchimp’s standard [Terms of Use](/legal/terms/) (including our Privacy Policy, Acceptable Use Policy, API Guidelines, Copyright Policy, and Brand Guidelines), and the standard [Terms of Use](/legal/terms/) continue to apply once you have enabled the Feature. The ability to use the Feature is considered part of the Service offered by Mailchimp (as defined in our standard [Terms of Use](/legal/terms/)).
-
-_Updated September 8, 2020_
-
-For Websites
-------------
-
-Welcome to Websites! “Websites” is a service that allows you to quickly and easily build a website and publish content all from within your Mailchimp account.
-
-Please read these Additional Terms carefully. These Additional Terms apply to your use of Websites. This is a legal agreement. By continuing to use Websites, you are agreeing to these Additional Terms. These Additional Terms do not replace Mailchimp’s [Standard Terms of Use](/legal/terms/) (including our Acceptable Use Policy, API Use Policy, Cookie Statement, Data Processing Addendum, Copyright and Trademark Policy, and Brand Guidelines), which also apply to your use of Websites.
-
-Websites is part of the Service and your use of Websites is considered part of your use of Mailchimp. Capitalized terms used and not otherwise defined in these Additional Terms have the meanings given to those terms in our [Standard Terms of Use](/legal/terms/). If you have any questions about any of our terms, feel free to [contact us](/contact/).
+The Preferences Center Builder is part of the Service and your use of the Preferences Center Builder is considered part of your use of Mailchimp. Capitalized terms used and not otherwise defined in these Additional Terms have the meanings given to those terms in our Standard Terms of Use. If you have any questions about any of our terms, feel free to contact us.
 
 ###### Part A: Important Things for You to Know
 
-1.  Mailchimp may modify, suspend or discontinue Websites at any time. Mailchimp may limit, suspend, or terminate your access to Websites at any time, with or without cause. And if we do so, we are not liable to you for any modification, suspension, termination, or discontinuation.
-    
-2.  Mailchimp may modify or change these Additional Terms from time to time. If we modify or change these Additional Terms in a material way, we will provide you notice that the Additional Terms have changed. Any modifications or changes will be effective immediately and apply to your continued use of Websites.
-    
+1.  Mailchimp may modify, suspend or discontinue the preferences center at any time. Mailchimp may limit, suspend, or terminate your access to the preferences center at any time, with or without cause. And if we do so, we are not liable to you for any modification, suspension, termination, or discontinuation.
+2.  Mailchimp may modify or change these Additional Terms from time to time. If we modify or change these Additional Terms in a material way, we will provide you notice that the Additional Terms have changed. Any modifications or changes will be effective immediately and apply to your continued use of the preferences center.
+3.  If you accept these Additional Terms, you understand and agree that you will be participating in and using a limited release of the Preferences Center Builder. This limited release is made available to you for evaluation and testing purposes and may not be as reliable as our other services.
+4.  You may provide or we may ask you to provide feedback on the Preferences Center Builder. We may use any feedback you choose to provide to improve the Preferences Center Builder or to develop new features and services. You understand that you will not receive any compensation for your feedback or suggestions. You grant us a royalty-free, worldwide, irrevocable, perpetual license to use and incorporate your feedback into the Preferences Center Builder or the Service.
+5.  With the Preferences Center Builder, you can build a preferences center by connecting a domain you already own, customizing a subdomain to Mailchimpsites.com, or purchasing a custom domain.
+6.  You represent and warrant that you own all rights or have permission to use, publish, or share all of the material, content, data and information (“Content”) on your preferences center. We aren’t responsible for the Content that you share on your preferences center or the Content other Members share on their preferences centers. By operating preferences centers, we do not represent that any Member’s Content is accurate, complete, or legal.
+7.  We may offer HTTPS encryption for your preferences center. By connecting a domain you already own, customizing a subdomain to Mailchimpsites.com, or purchasing a custom domain, you allow us to maintain a certificate in order to provide HTTPS for your preferences center.
 
-###### Part B: The Service
+###### Part B: Liability and Privacy
 
-1.  With Websites, you can build a website and publish content by connecting a domain you already own, customizing a subdomain to Mailchimpsites.com, or purchasing a custom domain.
-    
-2.  You are responsible for understanding and complying with all applicable laws, rules, and regulations and determining whether our Service, including Websites, is suitable for you in light of such laws, rules, and regulations.
-    
-3.  We may offer HTTPS encryption for your Website. By connecting a domain you already own, customizing a subdomain to Mailchimpsites.com, or purchasing a custom domain, you allow us to maintain a certificate in order to provide HTTPS for your Website.
-    
-4.  **As between you and Mailchimp, you are solely responsible for compliance with all applicable tax laws and regulations in all applicable jurisdictions, including the collection and remittance of all sales taxes, use taxes, VAT, GST, and other applicable taxes and fees.**
-    
+1.  You agree to maintain your preferences center in full compliance with these Additional Terms, as well as our Standard Terms of Use and other policies, including the Registrar’s terms of service, if applicable. We may unpublish, suspend or terminate your preferences center and/or suspend or terminate your Mailchimp account if you violate any of these terms.
+2.  You are responsible for understanding and complying with all applicable laws, rules, and regulations and determining whether our Service, including Preferences Center Builder, is suitable for you in light of such laws, rules, and regulations.
+3.  We are not liable for your relationship with end users to your preferences center and how you interact with them, including your collection of personal information. If applicable law requires, you must provide and make available a legally compliant privacy policy and cookie statement. It is your responsibility to consult with a legal advisor to make sure your preferences center is compliant with all applicable laws.
+4.  Please note that any tracking you deploy on your Mailchimp website, may not be available on your preferences center.
+5.  You are responsible for ensuring that any preferences collected via your preferences center are enforced and that you respect the preferences of your Contacts in accordance with applicable law.
+6.  We cannot guarantee the security of every data transmission over the internet.
+7.  You agree to indemnify and hold us and our Team harmless from any losses, including legal fees and expenses, arising out of or that otherwise result from your use of the Preferences Center Builder or from a third party’s use of the Preferences Center Builder.
 
-###### Part C: Content
-
-1.  You represent and warrant that you own all rights or have permission to use, publish or share all of the material, content, data and information (“Content”) on your Website.
-    
-2.  You retain ownership of the Content that you upload to your Website. We may use or disclose your Content (including any personal information therein) only as described in these Additional Terms, Standard Terms of Use, Privacy Policy, and Cookie Statement.
-    
-3.  We aren’t responsible for the Content that you share on your Website or the Content other Members share on their Websites. By operating Websites, we do not represent that any Member’s Content is accurate, complete, or legal.
-    
-4.  We may view, copy, or internally distribute Content from your Websites and account to create algorithms and programs (“Tools”) that help us spot problem accounts and improve our Services. We use these Tools to find Members who violate these Additional Terms, our Standard Terms of Use or laws and to study data internally to make the Service smarter and create better experiences for Members and their visitors.
-    
-
-###### Part D: Liability and Privacy
-
-1.  You agree to maintain your Website in full compliance with these Additional Terms, as well as our Standard Terms of Use and other policies, including the Registrar’s [terms of service](https://opensrs.com/wp-content/uploads/Tucows_ExhibitA.html), if applicable. We may unpublish, suspend or terminate your Website and/or suspend or terminate your Mailchimp account if you violate any of these terms.
-    
-2.  We are not liable for your relationship with end users to your Website and how you interact with them, including your collection of personal information. You can visit Mailchimp’s [Cookie Statement](/legal/cookies/) at any time for a general description of the tracking technologies that can be employed by a Mailchimp Member through the use of Mailchimp (see the Section entitled “Cookies served through the Services”) or you can revisit the Websites creator for descriptions of the tracking technologies
-    
-3.  If applicable law requires, you must provide and make available a legally compliant privacy policy and cookie statement on your Website. You must obtain from your end users all necessary consents required by applicable law to deploy cookies and other tracking technologies on your Websites. It is your responsibility to consult with a legal advisor to make sure your use of Websites is compliant with all applicable laws.
-    
-4.  We cannot guarantee the security of every data transmission over the internet.
-    
-5.  You agree to indemnify and hold us and our Team harmless from any losses, including legal fees and expenses, arising out of or that otherwise result from your use of Websites or from a third party’s use of your Website.
-    
-
-_Updated October 14, 2020_
-
-For Domains
------------
-
-Welcome to Domains! “Domains” is a service that allows you to quickly and easily buy and register a custom domain or transfer a domain to Mailchimp all from within your Mailchimp account.
-
-Please read these Additional Terms carefully. These Additional Terms apply to your use of Domains. This is a legal agreement. By checking the box and continuing to use Domains, you are agreeing to these Additional Terms. These Additional Terms do not replace Mailchimp’s [Standard Terms of Use](/legal/terms/) (including our Acceptable Use Policy, API Guidelines, Cookie Statement, Data Processing Addendum, Copyright and Trademark Policy, and Brand Guidelines), which also apply to your use of Domains.
-
-Domains is part of the Service and your use of Domains is considered part of your use of Mailchimp. Capitalized terms used and not otherwise defined in these Additional Terms have the meanings given to those terms in our Standard Terms of Use. If you have any questions about any of our terms, feel free to contact us.
-
-###### Part A. Important Things for You to Know
-
-1.  Mailchimp may modify, suspend or discontinue Domains. Mailchimp may limit, suspend, or terminate your access to Domains at any time. And if we do so, we are not liable to you for any modification, suspension, termination, or discontinuation.
-    
-2.  Mailchimp may modify or change these Additional Terms from time to time. If we modify or change these Additional Terms in a material way, we will provide you notice that the Additional Terms have changed. Any modifications or changes will be effective immediately and apply to your continued use of Domains.
-    
-3.  We offer HTTPS encryption for your domain. By purchasing a domain, you allow us to maintain a certificate in order to provide HTTPS for your domain.
-    
-4.  If you’ve purchased a domain, you can build and create a Website.
-    
-5.  We do not offer domain registration services for users in Russia and Ukraine at this time.
-    
-
-###### Part B: Domain Registration
-
-1.  Mailchimp is selling domains through a third-party registrar. As such, Mailchimp is a “Reseller” and you, the purchaser of a domain, are a “Registrant”. The third-party registrar that we use is Tucows Inc. (the “Registrar”). When you register, purchase, renew, or transfer a domain through Mailchimp, you agree to be bound by the Registrar’s [terms of service](https://opensrs.com/wp-content/uploads/Tucows_ExhibitA.html) as the “Registrant” thereunder, in addition to these Additional Terms. A breach of the Registrar’s terms of service is a breach of these Additional Terms.
-    
-2.  As a Registrant, you are subject to the policies and procedures set forth by the Internet Corporation for Assigned Names and Numbers (“ICANN”). ICANN governs the relationship between the Registrar and the Registrant. The rights and responsibilities you have when you purchase a domain are located [here](https://www.icann.org/resources/pages/responsibilities-2014-03-14-en). ICANN also provides helpful educational information for Registrants [here](https://www.icann.org/resources/pages/educational-2012-02-25-en).
-    
-3.  We are not responsible for the Registrar’s or ICANN’s actions or links as a third-party service.
-    
-4.  When you purchase a domain, you must provide certain personal information for registration. This registration information will be shared with our Registrar and the relevant authoritative registry services provider for your domain as set forth in the Registrar’s terms of service. We will process personal information in accordance with our Privacy Policy and as required to comply with applicable laws and regulations, including those set forth by ICANN.
-    
-5.  As the Mailchimp account holder, you will remain the Registrant and contact on record for your domain. You will ensure that your contact information is accurate and up to date at all times. As the Registrant, you are responsible for resolving any problems associated with your domain.
-    
-6.  If there is an ownership dispute of a domain, we reserve the right to determine the rightful owner. We may suspend any account associated with a dispute.
-    
-
-###### Part C: Payment
-
-1.  Domains is an add-on to your Mailchimp plan and will be billed as such (please see Section 12 of our Standard Terms of Use for more information regarding add-ons). Our fees for domains are set forth [here](/help/about-domain-purchasing/#Available_domains). We will bill you prior to your domain’s annual renewal.
-    
-2.  To provide uninterrupted service, we will automatically renew your domain unless you opt out of automatic renewal. If you would like to disable automatic renewal after purchasing a domain, please contact customer support. We or the Registrar will email you notices thirty (30) days and five (5) days prior to your domain’s renewal date as well as three (3) days after your domain expires. If you do not pay the renewal fees, your domain registration will expire and we may unpublish your Website.
-    
-3.  Please keep your billing information up to date at all times to avoid any registration problems. If there is a billing dispute, you must resolve the dispute before expiration of the domain, or else your domain registration will expire and we may unpublish your Website.
-    
-4.  You acknowledge and agree that your rights and interest in a domain cease upon non-payment and expiration of your domain.
-    
-5.  You may transfer your domain to another reseller by contacting customer support. However, you may not transfer your domain within the first sixty (60) days following the registration of your domain. We will not provide you any refund if you decide to transfer your domain.
-    
-6.  Upon termination of your Mailchimp account, any domain purchased through Mailchimp will no longer automatically renew. As such, it will be your responsibility to transfer your domain prior to cancelling your Mailchimp account. If you fail to transfer your domain prior to termination of your account, you will not be able to access your Website and your domain will expire.
-    
-
-###### Part D: Liability
-
-1.  You are responsible for understanding and complying with all applicable laws, rules, and regulations and determining whether our Service, including Domains, is suitable for you in light of such laws, rules, and regulations.
-    
-2.  We cannot guarantee the security of every data transmission over the internet.
-    
-3.  You agree to indemnify and hold us and our Team harmless from any losses, including legal fees and expenses, arising out of or that otherwise result from your use of Domains or from a third party’s use of your domain.
-    
-
-_Effective April 7, 2020_
-
-For Mobile SDK
---------------
-
-Welcome to the Mobile SDK Beta! The Mobile SDK is a feature that allows you to collect information about your contacts’ interactions with your mobile application and send personalized Campaigns based on those interactions.
-
-Please read these Additional Terms carefully. These Additional Terms and the license agreement located [here](/legal/mailchimp-mobile-sdk-license-agreement/) (the “License Agreement”) apply to your participation in the beta and your use of the software development kit, including any upgrades, modified versions, updates, additions, and copies of the foregoing (the “Mobile SDK”). By clicking “Generate Client Key” and accessing the Mobile SDK, you are agreeing to these Additional Terms and the License Agreement. If you are agreeing to be bound by these Additional Terms and the License Agreement on behalf of your employer other or entity, you represent and warrant that you have full legal authority to bind your employer or such entity to these Additional Terms and the License Agreement. If you do not have the requisite authority, you may not accept these Additional Term or the License Agreement, and you may not use the Mobile SDK on behalf of your employer or other entity.
-
-These Additional Terms do not replace Mailchimp’s [Standard Terms of Use](/legal/terms/) (including our Acceptable Use Policy, API Guidelines, Cookie Statement, Data Processing Addendum, Copyright and Trademark Policy, and Brand Guidelines), which also apply to your use of the Mobile SDK.
-
-Unless expressly stated otherwise, the capitalized words in this document mean the same thing as they do in our [Standard Terms of Use](/legal/terms/).
-
-#### Part A: Important Things for You to Know
-
-You understand and agree that:
-
-1.  Mailchimp may modify, suspend or discontinue the Mobile SDK at any time. Mailchimp may limit, suspend, or terminate your access to the Mobile SDK at any time, with or without cause. And if we do so, we are not liable to you for any modification, suspension, termination, or discontinuation.
-2.  Mailchimp may modify or change these Additional Terms from time to time.
-3.  You are responsible for understanding and complying with all applicable laws, rules, codes and regulations (including, without limitation, those related to data privacy) currently in effect, as they are amended and as they become effective, that are applicable to your use of the Mobile SDK.
-4.  If you accept these Additional Terms, you will be participating in and using the Beta version of the Mobile SDK. “Beta” means a feature, function, or technology that Mailchimp is making available to you that has not been made generally available to all of our Members or the public and that is for evaluation or testing purposes only. You may provide or we may ask you to provide feedback on the Mobile SDK. To obtain the feedback, we may ask you to participate in a phone call or video conference from time to time (collectively, the “Discussions”). You understand that the Discussions may be recorded and you hereby consent to such recording. We may use any feedback (including any feedback provided in the Discussions) you choose to provide to improve the Mobile SDK or to develop new features and services. You understand that you will not receive any compensation for your feedback or suggestions. You grant us a royalty-free, worldwide, irrevocable, perpetual license to use and incorporate your feedback and suggestions into the Mobile SDK or the Service.
-
-#### Part B: Your use of the Mobile SDK
-
-1.  You agree to use the Mobile SDK and write applications only for purposes that are permitted by (a) the License Agreement, (b) these Additional Terms and (c) any applicable law, regulation or generally accepted practices or guidelines in the relevant jurisdictions (including any laws regarding the export of data or software to and from the United States or other relevant countries).
-2.  You agree that you are responsible for understanding and complying with all applicable laws, statutes, rules, regulations and codes (including, without limitation, those related to tax and data privacy) currently in effect, as they are amended and as they become effective, that are applicable to your use and collection of your end-users’ data with the Mobile SDK. You are further responsible for determining whether the Mobile SDK is suitable for you in light of such laws, statutes, rules, regulations and codes. You represent, warrant and covenant that you have provided notice and obtained (or will obtain) all consents and rights necessary under applicable data privacy laws in connection with your use of the Mobile SDK. You shall have sole responsibility for the accuracy, quality, and legality of your use and collection of your end-users’ data with the Mobile SDK.
-3.  You agree that you will not engage in any activity with the Mobile SDK, including the development or distribution of an application, that interferes with, disrupts, damages, or accesses in an unauthorized manner the servers, networks, or other properties or services of any third-party including, but not limited to, Mailchimp or any mobile communications carrier.
-4.  You agree that you are solely responsible for (and that Mailchimp has no responsibility to you or to any third-party for) any breach of your obligations under the License Agreement, any applicable third-party contract or terms of service, or any applicable law or regulation, and you agree to indemnify and defend us against all costs, claims, and liability that we may suffer or incur in connection with any such breach.
-
-#### Part C: Third-Party Software
-
-The Mobile SDK may include open source software or third-party software. Any such software is made available to you under the terms of the applicable licenses. Please review the applicable notices and license terms [here](/legal/third-party-software-licenses/) related to the Mobile SDK. You are not authorized to combine and distribute the Mobile SDK with any third-party software that results in a GNY General Public License, an Affero General Public License or any other copyleft licenses.
-
-#### Part D: Export Controls
-
-THE MOBLE SDK IS SUBJECT TO UNITED STATES EXPORT LAWS AND REGULATIONS. YOU MUST COMPLY WITH ALL DOMESTIC AND INTERNATIONAL EXPORT LAWS AND REGULATIONS THAT APPLY TO THE MOBILE SDK. THESE LAWS INCLUDE RESTRICTIONS ON DESTINATIONS, END-USERS AND END USE.
-
-#### Part E: General Legal Terms
-
-The Additional Terms and the License Agreement represent the complete agreement concerning this license between you and Mailchimp and supersedes all prior agreements and representations between them. If there is conflicting language between these Additional Terms, the License Agreement and any other agreement governing your use of the Mobile SDK, the terms of the License Agreement will control. As used herein, the terms “include” and “including” mean “including without limitation.”
-
-_Effective: April 1, 2020_
+_Effective November 19, 2020_
 
 For Transactional Email (formerly Mandrill)
 -------------------------------------------
@@ -512,15 +578,6 @@ You agree to indemnify and hold Mailchimp, its parents, subsidiaries, affiliates
 
 _Effective July 14, 2020_
 
-For Custom Fonts
-----------------
-
-Please read these Additional Terms carefully before uploading a custom font to your Mailchimp account. By clicking “Upload Font” within the Mailchimp application, you are agreeing to these Additional Terms.
-
-By uploading a custom font, you represent and warrant that that you own or have all rights and licenses necessary to use, and sublicense to Mailchimp the right to use, the typeface and font software for your custom font in connection with the Mailchimp App for purposes of creating and sending your Campaigns. Pursuant to Section 24 of Mailchimp’s [Standard Terms of Use](/legal/terms/), you agree to indemnify and hold Mailchimp harmless from any losses arising directly or indirectly from a breach of the forgoing representation and warranty.
-
-_Effective September 1, 2020_
-
 For Unsplash Integration
 ------------------------
 
@@ -533,3 +590,56 @@ By uploading an Unsplash image to your Campaign, you acknowledge and understand 
 These Additional Terms do not replace Mailchimp’s [Standard Terms of Use](/legal/terms/) (including our Data Processing Addendum, Cookie Statement, Acceptable Use Policy, API Guidelines, Copyright and Trademark Policy, and Brand Guidelines), and the [Standard Terms of Use](/legal/terms/) continue to apply to your use of the Unsplash Integration. The ability to use the Unsplash Integration is considered part of the Service offered by Mailchimp (as defined in our [Standard Terms of Use](/legal/terms/)).
 
 _Effective October 21, 2020_
+
+For Websites
+------------
+
+Welcome to Websites! “Websites” is a service that allows you to quickly and easily build a website and publish content all from within your Mailchimp account.
+
+Please read these Additional Terms carefully. These Additional Terms apply to your use of Websites. This is a legal agreement. By continuing to use Websites, you are agreeing to these Additional Terms. These Additional Terms do not replace Mailchimp’s [Standard Terms of Use](/legal/terms/) (including our Acceptable Use Policy, API Use Policy, Cookie Statement, Data Processing Addendum, Copyright and Trademark Policy, and Brand Guidelines), which also apply to your use of Websites.
+
+Websites is part of the Service and your use of Websites is considered part of your use of Mailchimp. Capitalized terms used and not otherwise defined in these Additional Terms have the meanings given to those terms in our [Standard Terms of Use](/legal/terms/). If you have any questions about any of our terms, feel free to [contact us](/contact/).
+
+###### Part A: Important Things for You to Know
+
+1.  Mailchimp may modify, suspend or discontinue Websites at any time. Mailchimp may limit, suspend, or terminate your access to Websites at any time, with or without cause. And if we do so, we are not liable to you for any modification, suspension, termination, or discontinuation.
+    
+2.  Mailchimp may modify or change these Additional Terms from time to time. If we modify or change these Additional Terms in a material way, we will provide you notice that the Additional Terms have changed. Any modifications or changes will be effective immediately and apply to your continued use of Websites.
+    
+
+###### Part B: The Service
+
+1.  With Websites, you can build a website and publish content by connecting a domain you already own, customizing a subdomain to Mailchimpsites.com, or purchasing a custom domain.
+    
+2.  You are responsible for understanding and complying with all applicable laws, rules, and regulations and determining whether our Service, including Websites, is suitable for you in light of such laws, rules, and regulations.
+    
+3.  We may offer HTTPS encryption for your Website. By connecting a domain you already own, customizing a subdomain to Mailchimpsites.com, or purchasing a custom domain, you allow us to maintain a certificate in order to provide HTTPS for your Website.
+    
+4.  **As between you and Mailchimp, you are solely responsible for compliance with all applicable tax laws and regulations in all applicable jurisdictions, including the collection and remittance of all sales taxes, use taxes, VAT, GST, and other applicable taxes and fees.**
+    
+
+###### Part C: Content
+
+1.  You represent and warrant that you own all rights or have permission to use, publish or share all of the material, content, data and information (“Content”) on your Website.
+    
+2.  You retain ownership of the Content that you upload to your Website. We may use or disclose your Content (including any personal information therein) only as described in these Additional Terms, Standard Terms of Use, Privacy Policy, and Cookie Statement.
+    
+3.  We aren’t responsible for the Content that you share on your Website or the Content other Members share on their Websites. By operating Websites, we do not represent that any Member’s Content is accurate, complete, or legal.
+    
+4.  We may view, copy, or internally distribute Content from your Websites and account to create algorithms and programs (“Tools”) that help us spot problem accounts and improve our Services. We use these Tools to find Members who violate these Additional Terms, our Standard Terms of Use or laws and to study data internally to make the Service smarter and create better experiences for Members and their visitors.
+    
+
+###### Part D: Liability and Privacy
+
+1.  You agree to maintain your Website in full compliance with these Additional Terms, as well as our Standard Terms of Use and other policies, including the Registrar’s [terms of service](https://opensrs.com/wp-content/uploads/Tucows_ExhibitA.html), if applicable. We may unpublish, suspend or terminate your Website and/or suspend or terminate your Mailchimp account if you violate any of these terms.
+    
+2.  We are not liable for your relationship with end users to your Website and how you interact with them, including your collection of personal information. You can visit Mailchimp’s [Cookie Statement](/legal/cookies/) at any time for a general description of the tracking technologies that can be employed by a Mailchimp Member through the use of Mailchimp (see the Section entitled “Cookies served through the Services”) or you can revisit the Websites creator for descriptions of the tracking technologies
+    
+3.  If applicable law requires, you must provide and make available a legally compliant privacy policy and cookie statement on your Website. You must obtain from your end users all necessary consents required by applicable law to deploy cookies and other tracking technologies on your Websites. It is your responsibility to consult with a legal advisor to make sure your use of Websites is compliant with all applicable laws.
+    
+4.  We cannot guarantee the security of every data transmission over the internet.
+    
+5.  You agree to indemnify and hold us and our Team harmless from any losses, including legal fees and expenses, arising out of or that otherwise result from your use of Websites or from a third party’s use of your Website.
+    
+
+_Updated October 14, 2020_
