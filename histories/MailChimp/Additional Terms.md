@@ -126,7 +126,7 @@ Email Services is part of the Service and your use of Email Services is consider
 
 1.  We do not offer Email Forwarding for users in Russia and Ukraine at this time.
 2.  Email Forwarding is provided through our third-party Registrar, Tucows Inc. When you enable email forwarding through Mailchimp, you agree to be bound by Tucows’ [Acceptable Use Policy](https://opensrs.com/wp-content/uploads/emailaup.html), in addition to these Additional Terms and Mailchimp’s [Acceptable Use Policy](/legal/acceptable_use/). A breach of the Tucows’ terms is a breach of these Additional Terms.
-3.  Tucows reserves the right at any time to change or discontinue any of its products. We are not responsible for Tucows�� actions or links as a third-party service.
+3.  Tucows reserves the right at any time to change or discontinue any of its products. We are not responsible for Tucows’ actions or links as a third-party service.
 4.  By enabling Email Forwarding, you acknowledge and consent to your contact details being passed to and stored by each of Mailchimp and Tucows. This information will be processed by Mailchimp in accordance with our [Privacy Policy](/legal/privacy/).
 5.  Email Forwarding is available with a purchased domain. You must maintain an active domain with Mailchimp in order to use Email Forwarding. If you upgrade to the Google Workspace Integration, Email Forwarding will no longer be available.
 6.  We reserve the right to charge for Email Forwarding with prior written notice.
@@ -620,7 +620,7 @@ Websites is part of the Service and your use of Websites is considered part of y
 
 ###### Part C: Content
 
-1.  You represent and warrant that you own all rights or have permission to use, publish or share all of the material, content, data and information (“Content”) on your Website.
+1.  You represent and warrant that you own all rights or have permission to use, publish or share all of the material, content, data, links, and information (“Content”) on your Website.
     
 2.  You retain ownership of the Content that you upload to your Website. We may use or disclose your Content (including any personal information therein) only as described in these Additional Terms, Standard Terms of Use, Privacy Policy, and Cookie Statement.
     
@@ -642,4 +642,4 @@ Websites is part of the Service and your use of Websites is considered part of y
 5.  You agree to indemnify and hold us and our Team harmless from any losses, including legal fees and expenses, arising out of or that otherwise result from your use of Websites or from a third party’s use of your Website.
     
 
-_Updated October 14, 2020_
+_Updated November 20, 2020_
