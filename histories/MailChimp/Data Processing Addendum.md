@@ -19,7 +19,7 @@ All capitalized terms not defined in this DPA shall have the meanings set forth 
 
 "**Europe**" means, for the purposes of this DPA, the European Union, the European Economic Area and/or their member states, Switzerland and the United Kingdom.
 
-“**Non-EU Data Protection Laws**” means the California Consumer Privacy Act (“CCPA”); the Canadian Personal Information Protection and Electronic Documents Act (“PIPEDA”); and the Brazilian General Data Protection Law ("LGPD"), Federal Law no. 13,709/2018.
+“**Non-EU Data Protection Laws**” means the California Consumer Privacy Act (“CCPA”); the Canadian Personal Information Protection and Electronic Documents Act (“PIPEDA”); the Brazilian General Data Protection Law ("LGPD"), Federal Law no. 13,709/2018; and the Privacy Act 1988 (Cth) of Australia, as amended ("Australian Privacy Law").
 
 "**Privacy Shield**" means the EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield Framework self-certification program operated by the U.S. Department of Commerce.
 
@@ -29,11 +29,11 @@ All capitalized terms not defined in this DPA shall have the meanings set forth 
 
 "**Security Incident**" means any unauthorized or unlawful breach of security that leads to the accidental or unlawful destruction, loss, or alteration of, or unauthorized disclosure of or access to, Customer Data on systems managed or otherwise controlled by Mailchimp.
 
-"**Sensitive Data**" means (a) social security number, passport number, driver's license number, or similar identifier (or any portion thereof); (b) credit or debit card number (other than the truncated (last four digits) of a credit or debit card); (c) employment, financial, genetic, biometric or health information; (d) racial, ethnic, political or religious affiliation, trade union membership, or information about sexual life or sexual orientation; (e) account passwords; or (f) other information that falls within the definition of "special categories of data" under applicable Data Protection Laws.
+"**Sensitive Data**" means (a) social security number, tax file number, passport number, driver's license number, or similar identifier (or any portion thereof); (b) credit or debit card number (other than the truncated (last four digits) of a credit or debit card); (c) employment, financial, credit, genetic, biometric or health information; (d) racial, ethnic, political or religious affiliation, trade union membership, information about sexual life or sexual orientation, or criminal record; (e) account passwords; or (f) other information that falls within the definition of "special categories of data" under applicable Data Protection Laws.
 
 "**Sub-processor**" means any processor engaged by Mailchimp or its Affiliates to assist in fulfilling its obligations with respect to providing the Service pursuant to the Agreement or this DPA. Sub-processors may include third parties or Affiliates of Mailchimp but shall exclude Mailchimp employees, contractors, or consultants.
 
-The terms "**personal data**", "**controller**", "**data subject**", "**processor**" and "**processing**" shall have the meaning given to them under Data Protection Laws or if not defined thereunder, the GDPR, and "**process**", "**processes**" and "**processed**" shall be interpreted accordingly.
+The terms "**personal data**", "**controller**", "**data subject**", "**processor**" and "**processing**" shall have the meaning given to them under applicable Data Protection Laws or if not defined thereunder, the GDPR, and "**process**", "**processes**" and "**processed**", with respect to any Customer data, shall be interpreted accordingly.
 
 2\. Roles and Responsibilities
 ------------------------------
@@ -80,21 +80,23 @@ The terms "**personal data**", "**controller**", "**data subject**", "**processo
 6\. International Transfers
 ---------------------------
 
-6.1 **Data center locations**. Customer acknowledges that Mailchimp may transfer and process Customer Data to and in the United States and anywhere else in the world where Mailchimp, its Affiliates or its Sub-processors maintain data processing operations. Mailchimp shall at all times ensure that such transfers are made in compliance with the requirements of Data Protection Laws and this DPA.
+6.1 **Data center locations**. Subject to Section 6.2, Customer acknowledges that Mailchimp may transfer and process Customer Data to and in the United States and anywhere else in the world where Mailchimp, its Affiliates or its Sub-processors maintain data processing operations. Mailchimp shall at all times ensure that such transfers are made in compliance with the requirements of Data Protection Laws and this DPA.
 
-6.2 **European Data transfers**. To the extent that Mailchimp is a recipient of Customer Data protected by EU Data Protection Laws ("EU Data") in a country outside of Europe that is not recognized as providing an adequate level of protection for personal data (as described in applicable EU Data Protection Law), the parties agree to the following:
+6.2 **Australian data**. To the extent that Mailchimp is a recipient of Customer Data protected by the Australian Privacy Law, the parties acknowledge and agree that Mailchimp may transfer such Customer Data outside of Australia as permitted by the terms agreed upon by the parties and subject to Mailchimp complying with this DPA and the Australian Privacy Law.
+
+6.3 **European Data transfers**. To the extent that Mailchimp is a recipient of Customer Data protected by EU Data Protection Laws ("EU Data") in a country outside of Europe that is not recognized as providing an adequate level of protection for personal data (as described in applicable EU Data Protection Law), the parties agree to the following:
 
 *   (a) **SCCs**: Mailchimp agrees to abide by and process EU Data in compliance with the SCCs in the form set out in Annex C. For the purposes of the descriptions in the SCCs, Mailchimp agrees that it is the "data importer" and Customer is the "data exporter" (notwithstanding that Customer may itself be an entity located outside Europe).
     
 *   (b) **Privacy Shield**: Although Mailchimp does not rely on the EU-US Privacy Shield as a legal basis for transfers of Customer Data in light of the judgement of the Court of Justice of the EU in Case C-311/18, for as long as Mailchimp is self-certified to the Privacy Shield: (i) Mailchimp agrees to process EU Data in compliance with the Privacy Shield Principles and (ii) if Mailchimp is unable to comply with this requirement, Mailchimp shall inform Customer.
     
 
-6.3 **Alternative transfer mechanism**. To the extned Mailchimp adopts an alternative data export mechanism (including any new version of or successor to the SCCs or Privacy Shield) for the transfer of EU Data not described in this DPA ("Alternative Transfer Mechanism"), the Alternative Transfer Mechanism shall apply instead of the transfer mechanisms described in this DPA (but only to the extent such Alternative Transfer Mechanism complies with applicable EU Data Protection Law and extends to the countries to which EU Data is transferred). In addition, if and to the extent that a court of competent jurisdiction or supervisory authority orders (for whatever reason) that the measures described in this DPA cannot be relied on to lawfully transfer EU Data (within the meaning of applicable EU Data Protection Law), Mailchimp may implement any additional measures or safeguards that may be reasonably required to enable the lawful transfer of EU Data.
+6.4 **Alternative transfer mechanism**. To the extent Mailchimp adopts an alternative data export mechanism (including any new version of or successor to the SCCs or Privacy Shield) for the transfer of EU Data not described in this DPA ("Alternative Transfer Mechanism"), the Alternative Transfer Mechanism shall apply instead of the transfer mechanisms described in this DPA (but only to the extent such Alternative Transfer Mechanism complies with applicable EU Data Protection Law and extends to the countries to which EU Data is transferred). In addition, if and to the extent that a court of competent jurisdiction or supervisory authority orders (for whatever reason) that the measures described in this DPA cannot be relied on to lawfully transfer EU Data (within the meaning of applicable EU Data Protection Law), Mailchimp may implement any additional measures or safeguards that may be reasonably required to enable the lawful transfer of EU Data.
 
 7\. Return or Deletion of Data
 ------------------------------
 
-**Deletion on termination**. Upon termination or expiration of the Agreement, Mailchimp shall (at Customer's election) delete or return to Customer all Customer Data (including copies) in its possession or control, except that this requirement shall not apply to the extent Mailchimp is required by applicable law to retain some or all of the Customer Data, or to Customer Data it has archived on back-up systems, which Customer Data Mailchimp shall securely isolate, protect from any further processing and eventually delete in accordance with Mailchimp's deletion policies, except to the extent required by applicable law.
+**Deletion or return on termination**. Upon termination or expiration of the Agreement, Mailchimp shall (at Customer's election) delete or return to Customer all Customer Data (including copies) in its possession or control, except that this requirement shall not apply to the extent Mailchimp is required by applicable law to retain some or all of the Customer Data, or to Customer Data it has archived on back-up systems, which Customer Data Mailchimp shall securely isolate, protect from any further processing and eventually delete in accordance with Mailchimp's deletion policies, except to the extent required by applicable law.
 
 8\. Data Subject Rights and Cooperation
 ---------------------------------------
@@ -308,7 +310,7 @@ Please see the details set forth in Annex A to the Data Processing Addendum ("DP
 
 Please see Annex B – Security Measures
 
-**APPENDIX 3 TO STANDARD CONTRACUTAL CLAUSES**
+**APPENDIX 3 TO STANDARD CONTRACTUAL CLAUSES**
 
 The parties acknowledge that Clause 10 of the Clauses permits them to include additional business-related terms provided they do not contradict with the Clauses. Accordingly, this Appendix sets out the parties' interpretation of their respective obligations under specific Clauses identified below. Where a party complies with the interpretations set out in this Appendix, that party shall be deemed by the other party to have complied with its commitments under the Clauses.
 
@@ -353,7 +355,7 @@ Annex D - Jurisdiction-Specific Terms
 
 **UK**:
 
-1.  For the avoidance of doubt, when European Union law ceases to apply to the UK upon the UK's withdrawal from the European Union and until such time as the UK is deemed to provide adequate protection for personal data (within the meaning of applicable EU Data Protection Law) then to the extend Mailchimp processes (or causes to be processed) any Customer Data protected by EU Data Protection Law applicable to EEA and Switzerland in the United Kingdom, Mailchimp shall process such Customer Data in compliance with the SCCs or any applicable Alternative Transfer Mechanism implemented in accordance with Section 6.2 and 6.3 of this DPA.
+1.  For the avoidance of doubt, when European Union law ceases to apply to the UK upon the UK's withdrawal from the European Union and until such time as the UK is deemed to provide adequate protection for personal data (within the meaning of applicable EU Data Protection Law) then to the extend Mailchimp processes (or causes to be processed) any Customer Data protected by EU Data Protection Law applicable to EEA and Switzerland in the United Kingdom, Mailchimp shall process such Customer Data in compliance with the SCCs or any applicable Alternative Transfer Mechanism implemented in accordance with Section 6.3 and 6.4 of this DPA.
 
 **California:**
 
@@ -370,4 +372,4 @@ Annex D - Jurisdiction-Specific Terms
 1.  Mailchimp takes steps to ensure that Mailchimp's Sub-processors, as described in Section 3 (Sub-processing) of the DPA, are third parties under PIPEDA, with whom Mailchimp has entered into a written contract that includes terms substantially similar to this DPA. Mailchimp conducts appropriate due diligence on its Sub-processors.
 2.  Mailchimp will implement technical and organizational measures as set forth in Section 4 (Security) of the DPA.
 
-_Effective October 28, 2020_
+_Effective November 23, 2020_
