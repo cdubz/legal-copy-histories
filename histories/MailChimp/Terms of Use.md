@@ -114,7 +114,7 @@ When we, as a controller, process data that originates from the European Economi
 
 ###### 16\. Right to Review Content and Campaigns
 
-We may view, copy, and internally distribute Content from your Campaigns and account to create algorithms and programs (“Tools”) that help us spot problem accounts and improve the Service. We use these Tools to find Members who violate these Terms or laws and to study data internally to make the Service smarter and create better experiences for Members and their contacts.
+We may view, copy, and internally distribute Content from your Campaigns and account to create algorithms and programs (“Tools”) that help us spot problem accounts and improve the Service. We use these Tools to find Members who violate these Terms or laws and to study data internally to make the Service smarter and create better experiences for Members and their contacts. We may aggregate and anonymize data, including from the Content of your Campaigns, to create statistical information. Aggregated anonymized statistical information may be shared externally for research, marketing, or other lawful purposes.
 
 Rules and Abuse
 ---------------
@@ -275,4 +275,4 @@ Congratulations! You’ve reached the end.
 
 Thanks for taking the time to learn about Mailchimp’s policies.
 
-_Updated as of October 28, 2020._
+_Updated November 23, 2020._
