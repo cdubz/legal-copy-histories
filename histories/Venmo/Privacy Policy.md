@@ -180,7 +180,7 @@ All financial companies need to share customers’ personal information to run t
 
 Reasons we can share your personal information
 
-Does The Bancorp share?
+Does Venmo share?
 
 Can you limit this sharing?
 
