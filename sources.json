@@ -36,6 +36,36 @@
     ]
   },
   {
+    "name": "Garmin",
+    "copy": [
+      {
+        "title": "Privacy Policy for Garmin.com",
+        "url": "https://www.garmin.com/en-US/privacy/global/policy/",
+        "selector": "section.p__policy"
+      },
+      {
+        "title": "Privacy Policy for Garmin Pay",
+        "url": "https://www.garmin.com/en-US/privacy/garminpay/policy/",
+        "selector": "section.p__policy"
+      },
+      {
+        "title": "Privacy Policy for Garmin Connect, Garmin Sports and Compatible Garmin Devices",
+        "url": "https://www.garmin.com/en-US/privacy/connect/policy/",
+        "selector": "section.p__policy"
+      },
+      {
+        "title": "Privacy Policy for InReach and Garmin Explore",
+        "url": "https://www.garmin.com/en-US/privacy/inreach/policy/",
+        "selector": "section.p__policy"
+      },
+      {
+        "title": "Terms of Use",
+        "url": "https://www.garmin.com/en-US/legal/terms-of-use/",
+        "selector": ".copy"
+      }
+    ]
+  },
+  {
     "name": "MailChimp",
     "selector": ".content--main",
     "copy": [
