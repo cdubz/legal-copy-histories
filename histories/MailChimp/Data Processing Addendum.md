@@ -19,7 +19,7 @@ All capitalized terms not defined in this DPA shall have the meanings set forth 
 
 "**Europe**" means, for the purposes of this DPA, the European Union, the European Economic Area and/or their member states, Switzerland and the United Kingdom.
 
-“**Non-EU Data Protection Laws**” means the California Consumer Privacy Act (“CCPA”); the Canadian Personal Information Protection and Electronic Documents Act (“PIPEDA”); the Brazilian General Data Protection Law ("LGPD"), Federal Law no. 13,709/2018; and the Privacy Act 1988 (Cth) of Australia, as amended ("Australian Privacy Law").
+“**Non-EU Data Protection Laws**” means the California Consumer Privacy Act (��CCPA”); the Canadian Personal Information Protection and Electronic Documents Act (“PIPEDA”); the Brazilian General Data Protection Law ("LGPD"), Federal Law no. 13,709/2018; and the Privacy Act 1988 (Cth) of Australia, as amended ("Australian Privacy Law").
 
 "**Privacy Shield**" means the EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield Framework self-certification program operated by the U.S. Department of Commerce.
 
