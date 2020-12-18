@@ -1,5 +1,19 @@
 [
   {
+    "name": "Copilot.money",
+    "selector": "main",
+    "copy": [
+      {
+        "title": "Privacy Policy",
+        "url": "https://copilot.money/privacy_policy"
+      },
+      {
+        "title": "Terms of Services",
+        "url": "https://copilot.money/terms_of_service"
+      }
+    ]
+  },
+  {
     "name": "Digital Ocean",
     "selector": "div[data-testid=\"document_text\"]",
     "copy": [
