@@ -3,12 +3,13 @@ We’re in this thing together. The actions individual Members take can have a b
 Prohibited Content
 ------------------
 
-Please don’t use Mailchimp to distribute anything offensive, to promote anything illegal, or to harass anyone. You may not use Mailchimp to create, send, or display:
+Please don’t use Mailchimp to distribute anything offensive, to promote anything illegal, or to harass anyone. You may not use Mailchimp to create, send, display, advertise, or sell (as applicable):
 
-*   Campaigns offering to sell illegal goods or services
+*   Illegal goods or services
 *   Emails that violate the CAN-SPAM or other anti-spam laws
 *   Pornography/sexually explicit content
 *   Campaigns promoting or supporting terrorism or violent extremism
+*   Products claiming to prevent, treat, or cure COVID-19; in demand due to COVID-19 with excessive pricing, price gouging, or deceptive pricing practices; or in demand due to COVID-19 and prohibited by applicable law
 
 Some industries have higher-than-average abuse complaints, which can jeopardize deliverability. In order to maintain the reliability of our platform, we do not allow businesses that offer these types of services, products, or content:
 
@@ -27,7 +28,7 @@ Some industries have higher-than-average abuse complaints, which can jeopardize 
 Content Subject to Additional Scrutiny
 --------------------------------------
 
-We’ve also found that certain types of content may cause higher-than-average abuse rates. For that reason, we may closely review, suspend, throttle, or disable accounts that offer the following services, products, or content:
+We’ve also found that certain types of content may cause higher-than-average abuse rates. For that reason, we may closely review accounts that offer the following services, products, or content:
 
 *   Online trading, day trading tips, or stock market related content
 *   Daily horoscope reports
@@ -37,6 +38,9 @@ We’ve also found that certain types of content may cause higher-than-average a
 *   Online dating services and applications (dating sites or services with a sexual emphasis or sexually explicit content – including images depicting nudity – are not permitted)
 *   Real estate
 *   Services that support programmatically sending mail on behalf of third parties without creating or reviewing the content
+*   Products in demand due to COVID-19 and regulated by applicable law
+
+If we identify abuse, we may suspend, throttle, or disable the account.
 
 Prohibited Actions
 ------------------
@@ -73,4 +77,4 @@ As a marketing platform with millions of customers all over the world, we feel i
 
 Thanks for taking the time to read our Acceptable Use Policy.
 
-_Updated September 18, 2020_
+_Updated December 18, 2020_
