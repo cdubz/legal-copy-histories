@@ -293,7 +293,7 @@ Also, all opt-out requests can be made by emailing us using the contact details 
 
 We take appropriate and reasonable technical and organizational measures designed to protect Personal Information from loss, misuse, unauthorized access, disclosure, alteration, and destruction, taking into account the risks involved in the processing and the nature of the Personal Information. For further information about our security practices, please see our Security page available [here](/about/security/ "Mailchimp Security page"). If you have any questions about the security of your Personal Information, you may contact us at privacy@mailchimp.com.
 
-Mailchimp accounts require a username and password to log in. Members must keep their username and password secure, and never disclose it to a third party. Because the information in a Member’s Mailchimp account is private, account passwords are hashed, which means we cannot see a Member’s password. We cannot resend forgotten passwords either. We will only provide Members with instructions on how to reset them.
+Mailchimp accounts require a username and password to log in. Members must keep their username and password secure, and never disclose it to a third party. Because the information in a Member���s Mailchimp account is private, account passwords are hashed, which means we cannot see a Member’s password. We cannot resend forgotten passwords either. We will only provide Members with instructions on how to reset them.
 
 ###### E. International Transfers
 
