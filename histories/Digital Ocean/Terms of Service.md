@@ -72,7 +72,7 @@ Terms & Conditions of the TOS
 
 ### 3\. DO Community & User Content
 
-3.1 Certain features of the Websites (such as [DigitalOcean Community](https://www.digitalocean.com/community)) permit you to submit or upload content, including messages, reviews, media, images, folders, data, text, and other types of works (your **“User Content”**) and to publish your User Content on our Websites.
+3.1 Certain features of the Websites (such as [DigitalOcean Community](https://www.digitalocean.com/community)) permit you to submit or upload content, including messages, reviews, media, images, folders, data, text, and other types of works (your **“User Content��**) and to publish your User Content on our Websites.
 
 3.2 By providing your User Content to or via the Websites, you grant DigitalOcean a worldwide, non-exclusive, royalty-free, fully paid right and license (with the right to sublicense) to host, store, transfer, display, perform, reproduce, modify for the purpose of formatting for display, and distribute your User Content, in whole or in part, in any media formats and through any media channels.
 
