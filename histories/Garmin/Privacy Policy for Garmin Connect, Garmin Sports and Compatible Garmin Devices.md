@@ -194,7 +194,7 @@ We may also transfer your personal data to an affiliate, a subsidiary or a third
 Transfers of Personal Data
 ==========================
 
-Garmin is a global business. To offer our products, apps and services, we may need to transfer your personal data to Garmin-owned companies in other countries. [View Garmin-owned companies](https://www.garmin.com/en-US/legal/garmin-companies "Garmin Companies").
+Garmin is a global business. To offer our products, apps and services, we may need to transfer your personal data to Garmin-owned companies in other countries. [View Garmin-owned companies](https://www.garmin.com/legal/garmin-companies "Garmin Companies").
 
 For customers outside of China, when you create a Garmin account, add personal data in your account profile, or upload data to your Garmin account, your personal data will be collected and stored on servers in the U.S., UK, and/or Australia. For customers in China, when you create a Garmin account, add personal data in your account profile, or upload data to your Garmin account, your personal data will be collected and stored on Garmin China Shanghai RHQ Co. Ltd.’s servers in China.
 
@@ -202,7 +202,7 @@ Personal data regarding individuals who reside in a country in the European Econ
 
 Garmin International, Inc., Garmin Services, Inc., and Garmin AT, Inc. comply with the EU-U.S. and Swiss-U.S. Privacy Shield principles regarding the collection, use, sharing and retention of personal information from the EEA, U.K. and Switzerland, as described in [our EU-U.S. Privacy Shield certification and Swiss-U.S. Privacy Shield certification](https://www.privacyshield.gov/participant?id=a2zt0000000TR15AAG&status=Active "https://www.privacyshield.gov/participant?id=a2zt0000000TR15AAG&status=Active"). [Learn more about Privacy Shield](https://www.privacyshield.gov/welcome "Privacy Shield").
 
-Garmin International, Inc., Garmin Services, Inc., and Garmin AT, Inc. are subject to the oversight of the U.S. Federal Trade Commission and remain responsible for personal data transferred to third parties that process it on our behalf. If you have a complaint about our Privacy Shield compliance, please contact us at [\[email protected\]](/cdn-cgi/l/email-protection#1d6d6f746b7c7e645d7a7c6f707473337e7270 "Privacy email address"). You can also refer a complaint to our chosen independent dispute resolution body, [JAMS](https://www.jamsadr.com/eu-us-privacy-shield "JAMS"), and in certain circumstances, invoke the Privacy Shield arbitration process.
+Garmin International, Inc., Garmin Services, Inc., and Garmin AT, Inc. are subject to the oversight of the U.S. Federal Trade Commission and remain responsible for personal data transferred to third parties that process it on our behalf. If you have a complaint about our Privacy Shield compliance, please contact us at [\[email protected\]](/cdn-cgi/l/email-protection#e090928996818399a08781928d898ece838f8d "Privacy email address"). You can also refer a complaint to our chosen independent dispute resolution body, [JAMS](https://www.jamsadr.com/eu-us-privacy-shield "JAMS"), and in certain circumstances, invoke the Privacy Shield arbitration process.
 
 All Garmin-owned companies are required to follow the privacy practices set forth in this Privacy Policy.
 
@@ -264,11 +264,11 @@ We will retain your personal data as long as your Garmin account is considered t
 Data Controller and Data Protection Officer
 ===========================================
 
-If you reside in a country in the EEA, U.K. or Switzerland, then your personal data collected by Garmin is controlled by Garmin Würzburg GmbH, which is located at Beethovenstraße 1a+b, 97080 Würzburg, Germany. The company's EU Data Protection Officer is located at the same address and can be reached by email at [\[email protected\]](/cdn-cgi/l/email-protection#dcb9a9acaeb5aabdbfa59cbbbdaeb1b5b2f2bfb3b1 "email address")
+If you reside in a country in the EEA, U.K. or Switzerland, then your personal data collected by Garmin is controlled by Garmin Würzburg GmbH, which is located at Beethovenstraße 1a+b, 97080 Würzburg, Germany. The company's EU Data Protection Officer is located at the same address and can be reached by email at [\[email protected\]](/cdn-cgi/l/email-protection#80e5f5f0f2e9f6e1e3f9c0e7e1f2ede9eeaee3efed "email address")
 
-If you reside in China, then your personal data collected by Garmin is controlled by Garmin China Shanghai RHQ Co. Ltd, located at 37F, Tower A, New CHJ International Business Center, No 391, Guiping Road, Xuhui District, Shanghai 200233, China, which you can contact by email at [\[email protected\]](/cdn-cgi/l/email-protection#6f0c011f1d06190e0c162f080e1d020601410c0002 "email address").
+If you reside in China, then your personal data collected by Garmin is controlled by Garmin China Shanghai RHQ Co. Ltd, located at 37F, Tower A, New CHJ International Business Center, No 391, Guiping Road, Xuhui District, Shanghai 200233, China, which you can contact by email at [\[email protected\]](/cdn-cgi/l/email-protection#96f5f8e6e4ffe0f7f5efd6f1f7e4fbfff8b8f5f9fb "email address").
 
-If you reside outside of the EEA, U.K., Switzerland and China, then the personal data collected by Garmin is controlled by Garmin International, Inc., 1200 E. 151st St., Olathe, Kansas 66062, which you can contact by email at [\[email protected\]](/cdn-cgi/l/email-protection#89f9fbe0ffe8eaf0c9eee8fbe4e0e7a7eae6e4 "Privacy Email").
+If you reside outside of the EEA, U.K., Switzerland and China, then the personal data collected by Garmin is controlled by Garmin International, Inc., 1200 E. 151st St., Olathe, Kansas 66062, which you can contact by email at [\[email protected\]](/cdn-cgi/l/email-protection#b8c8cad1ced9dbc1f8dfd9cad5d1d696dbd7d5 "Privacy Email").
 
 Your Rights
 ===========
@@ -277,11 +277,11 @@ If you reside in the European Union or U.K., you have the right, subject to the 
 
 To request access to or rectification, portability or erasure of your personal data, or to delete your Garmin account, visit [Account Management Center](https://www.garmin.com/account).
 
-If you live in the European Union or U.K. and you wish to exercise your right to restriction of processing or your right to object to processing, please contact the company's EU Data Protection Officer at Garmin Würzburg GmbH at Beethovenstraße 1a+b, 97080 Würzburg, Germany, or by email at [\[email protected\]](/cdn-cgi/l/email-protection#42273732302b3423213b022523302f2b2c6c212d2f).
+If you live in the European Union or U.K. and you wish to exercise your right to restriction of processing or your right to object to processing, please contact the company's EU Data Protection Officer at Garmin Würzburg GmbH at Beethovenstraße 1a+b, 97080 Würzburg, Germany, or by email at [\[email protected\]](/cdn-cgi/l/email-protection#22475752504b5443415b624543504f4b4c0c414d4f).
 
-If you live in China and you wish to exercise any of your data subject rights, please contact Garmin China Shanghai RHQ Co. Ltd. at [\[email protected\]](/cdn-cgi/l/email-protection#89eae7f9fbe0ffe8eaf0c9eee8fbe4e0e7a7eae6e4).
+If you live in China and you wish to exercise any of your data subject rights, please contact Garmin China Shanghai RHQ Co. Ltd. at [\[email protected\]](/cdn-cgi/l/email-protection#61020f11130817000218210600130c080f4f020e0c).
 
-If you do not live in the European Union, U.K., or China, but you believe you have a right to exercise these or any other rights under your local laws, please contact Garmin International, Inc. at [\[email protected\]](/cdn-cgi/l/email-protection#0676746f7067657f466167746b6f682865696b).
+If you do not live in the European Union, U.K., or China, but you believe you have a right to exercise these or any other rights under your local laws, please contact Garmin International, Inc. at [\[email protected\]](/cdn-cgi/l/email-protection#a3d3d1cad5c2c0dae3c4c2d1cecacd8dc0ccce).
 
 ### Notice for California Residents of Privacy Practices and Rights
 
