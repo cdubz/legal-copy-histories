@@ -53,7 +53,7 @@ async function evaluateSource(source) {
           const content = cheerio.load(html);
           if (!content) {
             console.error("Unable to load html content:", content, response);
-            return;
+            process.exit(1);
           }
           await cleanContent(content);
 
@@ -70,7 +70,7 @@ async function evaluateSource(source) {
               source,
               content.html()
             );
-            return;
+            process.exit(1);
           }
 
           const markdown = td.turndown(selectorHtml);
@@ -81,6 +81,7 @@ async function evaluateSource(source) {
       })
       .on("error", (error) => {
         console.error(error);
+        process.exit(1);
       })
       .end();
   });
