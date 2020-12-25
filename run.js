@@ -49,12 +49,13 @@ async function evaluateSource(source) {
         response.on("data", (chunk) => {
           html += chunk;
         });
-        response.on("end", function () {
+        response.on("end", async function () {
           const content = cheerio.load(html);
           if (!content) {
             console.error("Unable to load html content:", content, response);
             return;
           }
+          await cleanContent(content);
 
           const selectorHtml = content(source.selector || copy.selector)
             .map(function () {
@@ -83,4 +84,9 @@ async function evaluateSource(source) {
       })
       .end();
   });
+}
+
+async function cleanContent(content) {
+  // Remove CloudFlare email protection links with random characters.
+  content('a[href^="/cdn-cgi/l/email-protection"]').replaceWith(() => "[email protected]");
 }
