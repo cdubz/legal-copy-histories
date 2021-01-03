@@ -3,7 +3,7 @@ User Agreement
 
 ### Last updated
 
-This user agreement will be effective on November 11, 2020.
+This user agreement will be effective on January 2nd, 2021.
 
 Welcome to Venmo!
 
@@ -79,13 +79,13 @@ To hold a Venmo balance and use money sent to you for Venmo payments to other us
 *   For a business profile of any other type of business legal entity: business name, business address, taxpayer identification number, and proof of business existence.
     
 
-Unless you add funds to your Venmo account using Direct Deposit, any money sent to you on Venmo represents an unsecured claim against us and is not insured by the Federal Deposit Insurance Corporation (FDIC). We combine your money with the Venmo money of other Venmo users and hold it in a custodial account for the benefit of our account holders. With the exception of funds in accounts that have used Direct Deposit, we invest the money in liquid investments in accordance with state money transmitter laws. We own the interest or other earnings on these investments. However, the claim against us represented by this money is not secured by these investments and you do not have any ownership interest (either legal or beneficial) in these investments. These pooled amounts are held apart from our corporate funds, and we will neither use these amounts for our operating expenses or any other corporate purposes nor will we voluntarily make these amounts available to our creditors in the event of bankruptcy.
+Unless you add funds to your Venmo account using Direct Deposit or remote check capture, any money sent to you on Venmo represents an unsecured claim against us and is not insured by the Federal Deposit Insurance Corporation (FDIC). We combine your money with the Venmo money of other Venmo users and hold it in a custodial account for the benefit of our account holders. With the exception of funds in accounts that have used Direct Deposit or remote check capture, we invest the money in liquid investments in accordance with state money transmitter laws. We own the interest or other earnings on these investments. However, the claim against us represented by this money is not secured by these investments and you do not have any ownership interest (either legal or beneficial) in these investments. These pooled amounts are held apart from our corporate funds, and we will neither use these amounts for our operating expenses or any other corporate purposes nor will we voluntarily make these amounts available to our creditors in the event of bankruptcy.
 
 ### Adding Money to and Transferring Money out of Your Venmo Account
 
 Adding money
 
-If we have verified the [required identifying information](#required-identifying-info) that you provide to us, Venmo may offer you the ability to add money to your Venmo balance from a linked bank account or through Direct Deposit. Otherwise, you cannot add money. Remember, you may use the payment methods linked to your Venmo account to fund transactions and you don’t need a Venmo balance to send money or buy something using your Venmo account.
+If we have verified the [required identifying information](#required-identifying-info) that you provide to us, Venmo may offer you the ability to add money to your Venmo balance from a linked bank account or through [Direct Deposit](#direct-deposit) and [remote check capture features](#direct-deposit), subject to the applicable fees found on the Fees page. Otherwise, you cannot add money. Remember, you may use the payment methods linked to your Venmo account to fund transactions and you don’t need a Venmo balance to send money or buy something using your Venmo account.
 
 Transferring money out of Venmo
 
@@ -121,7 +121,7 @@ Among other reasons, we may take the above actions if you knowingly or unknowing
 
 VENMO SHOULD ONLY BE USED TO TRANSACT WITH PEOPLE YOU KNOW AND TRUST. DO NOT USE VENMO TO TRANSACT WITH PEOPLE YOU DON’T KNOW, ESPECIALLY IF THE PAYMENT INVOLVES THE PURCHASE OR SALE OF A GOOD OR SERVICE. UNLESS VENMO EXPRESSLY AUTHORIZES YOUR PAYMENT FOR A GOOD OR SERVICE, FOR EXAMPLE, TRANSACTIONS WITH AN AUTHORIZED MERCHANT OR BUSINESS PROFILE, OR TRANSACTIONS MADE WITH YOUR VENMO DEBIT CARD, PAYING OR RECEIVING PAYMENT FOR A GOOD OR A SERVICE IS PROHIBITED. IF YOU USE VENMO TO CONDUCT SUCH A TRANSACTION AND WE LATER REVERSE THE PAYMENT (WHICH COULD OCCUR IF IT IS DETERMINED THAT THIS AGREEMENT WAS VIOLATED OR IF THE PAYMENT WAS MADE USING A COMPROMISED PAYMENT METHOD OR ACCOUNT), YOU COULD LOSE BOTH THE UNDERLYING GOODS OR SERVICES AND THE MONEY SENT FOR THEM.
 
-### Direct Deposit and FDIC Pass-Through Insurance
+### Direct Deposit, Remote Check Capture and FDIC Pass-Through Insurance
 
 Direct Deposit
 
@@ -136,13 +136,15 @@ Please note that in order to assist in the prevention of fraud we require the fo
 *   In connection with non-tax refunds (i) the name and Social Security Number associated with each payment must match the name or Social Security Number associated with your Venmo account.
     
 
+Remote Check Capture If you are eligible for remote check capture and we have verified your required identifying information, you can transfer proceeds from checks into your Venmo account using our remote check capture feature. We determine eligibility for remote check capture in our sole discretion. For full terms applicable to remote check capture, including fees and limits, please review [https://www.ingomoney.com/partners/paypal-terms-conditions](https://www.ingomoney.com/partners/paypal-terms-conditions).
+
 FDIC Pass-Through insurance
 
-When you add money to your Venmo balance using Direct Deposit, Venmo will deposit all funds held in your Venmo balance into one or more custodial accounts we maintain for the benefit of Venmo account holders at one or more FDIC member banks (currently Wells Fargo Bank, N.A. or The Bancorp Bank), and the funds in your Venmo balance will be eligible to be insured by the FDIC up to the standard maximum deposit insurance amount (currently $250,000).
+When you add money to your Venmo balance using Direct Deposit or remote check capture, Venmo will deposit all funds held in your Venmo balance into one or more custodial accounts we maintain for the benefit of Venmo account holders at one or more FDIC member banks (currently Wells Fargo Bank, N.A. or The Bancorp Bank), and the funds in your Venmo balance will be eligible to be insured by the FDIC up to the standard maximum deposit insurance amount (currently $250,000).
 
 FDIC pass-through insurance helps protect you against the risk of loss of your funds should the FDIC-insured bank where we deposit your funds fail. If one of the banks in which we have deposited your funds fails, your funds would be eligible to be insured by the FDIC up to the standard maximum deposit insurance amount (currently $250,000). This limit applies per depositor and ownership capacity, not per account. When determining your coverage limit, the FDIC will add the funds in your eligible Venmo account to amounts you hold in the same ownership capacity in other accounts at the same bank.
 
-If funds are received in your Venmo account other than through Direct Deposit, there might be a delay between the time that funds are credited to your Venmo account and when we actually transfer those funds to one of the custodial bank accounts. Your Venmo balance funds might not be eligible for the benefits of FDIC pass-through insurance coverage during this period, although we will still be holding the funds as your agent and custodian. You will not receive interest or any other earnings on funds held in these custodial bank accounts and you agree that any interest that may be earned on funds in a custodial bank account are owned by Venmo.
+If funds are received in your Venmo account other than through Direct Deposit or remote check capture, there might be a delay between the time that funds are credited to your Venmo account and when we actually transfer those funds to one of the custodial bank accounts. Your Venmo balance funds might not be eligible for the benefits of FDIC pass-through insurance coverage during this period, although we will still be holding the funds as your agent and custodian. You will not receive interest or any other earnings on funds held in these custodial bank accounts and you agree that any interest that may be earned on funds in a custodial bank account are owned by Venmo.
 
 FDIC pass-through insurance does not protect you against the risk of our insolvency. We believe that, in the unlikely event of our insolvency, funds that we have on deposit in a custodial account for the benefit of our account holders should not be included in our bankruptcy estate and should be protected from claims by our creditors. Additionally, even if funds in your Venmo balance (whether held by us or held in a custodial account) are eligible for FDIC pass-through insurance and may be protected from claims by our creditors in the unlikely event of our insolvency, it is possible that you will not have access to those funds while court or other legal proceedings to determine ownership of the funds are ongoing.
 
