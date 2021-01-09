@@ -25,7 +25,7 @@ This Data Processing Agreement (“DPA”) is an addendum to the Customer Terms 
 
 **“Privacy Shield”** means the EU-US and Swiss-US Privacy Shield Frameworks, as administered by the U.S. Department of Commerce. 
 
-**“Privacy Shield Principles”** means the Privacy Shield Framework Principles (as supplemented by the Supplemental Principles) contained in Annex II to the European Commission Decision of 12 July 2016 pursuant to the Directive, details of which can be found at [www.privacyshield.gov/eu-us-framework](https://www.privacyshield.gov/eu-us-framework).
+**“Privacy Shield Principles���** means the Privacy Shield Framework Principles (as supplemented by the Supplemental Principles) contained in Annex II to the European Commission Decision of 12 July 2016 pursuant to the Directive, details of which can be found at [www.privacyshield.gov/eu-us-framework](https://www.privacyshield.gov/eu-us-framework).
 
 **“Processor”** means an entity that processes Personal Data on behalf of the Controller.
 
