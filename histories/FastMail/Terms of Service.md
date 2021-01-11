@@ -163,6 +163,6 @@ If you acquire the Service as a customer of a reseller, you acknowledge that:
 COPYRIGHT AND TRADEMARK NOTICES
 -------------------------------
 
-All source code, executable code, page designs and other copyrightable material are Copyright © 1999-2019 Fastmail Pty Ltd or used under license from the copyright owner.
+All source code, executable code, page designs and other copyrightable material are Copyright © 1999-2021 Fastmail Pty Ltd or used under license from the copyright owner.
 
 All rights reserved. Any rights not expressly granted herein are reserved.
