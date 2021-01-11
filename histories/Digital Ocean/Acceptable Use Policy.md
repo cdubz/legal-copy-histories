@@ -1,6 +1,6 @@
 Last updated October 14, 2020
 
-This Acceptable Use Policy (this “AUP”) describes material and activities that are not allowed in connection with the Services offered by DigitalOcean. This AUP is not exhaustive, and DigitalOcean reserves the right to take remedial action in connection with content or uses that are not specifically described below.
+This Acceptable Use Policy (this ��AUP”) describes material and activities that are not allowed in connection with the Services offered by DigitalOcean. This AUP is not exhaustive, and DigitalOcean reserves the right to take remedial action in connection with content or uses that are not specifically described below.
 
 You are responsible for violations of this AUP by anyone using your account with your permission or on an unauthorized basis. You are also responsible for violations of this AUP by Your Users. Your use of the Services to assist another person in an activity that would violate this AUP if performed by you is a violation of the AUP. We may modify this AUP at any time by posting a revised version on the DigitalOcean Websites and/or Services.
 
