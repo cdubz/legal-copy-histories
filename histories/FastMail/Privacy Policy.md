@@ -1,7 +1,7 @@
 Privacy policy
 ==============
 
-This privacy policy came into effect on **May 25th, 2020**. The only change from our [previous policy](/about/privacy2019/) is the amendment of 'FastMail' to 'Fastmail' to reflect our updated name.
+This privacy policy came into effect on **Jan 12th, 2021**. The only change from our [previous policy](/about/privacy2020/) is the addition of the [Google API Usage disclosure](https://www.fastmail.com/about/privacy/#google). All previous version of our privacy policy can be found [here](/about/policy-historical).
 
 * * *
 
@@ -265,6 +265,11 @@ You can access and control your Personal Information that Fastmail has obtained,
 We may ask you for additional information to confirm your identity and for security purposes, in particular before disclosing personal information to you.
 
 We may not always be able to fully address your request, for example if it would impact the duty of confidentiality we owe to others, or if we are legally entitled to deal with the request in a different way.
+
+Google API usage
+----------------
+
+We provide a way for users to migrate their data from Google onto Fastmail. When a user voluntarily connects their Google account, we comply with the Google API Services User Data Policy. Fastmail's use and transfer to any other app of information received from Google Accounts will adhere to [Google API Services User Data Policy](https://developers.google.com/terms/api-services-user-data-policy#additional_requirements_for_specific_api_scopes), including the Limited Use requirements.
 
 Contact us
 ----------

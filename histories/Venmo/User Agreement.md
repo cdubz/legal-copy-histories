@@ -503,7 +503,7 @@ In connection with your use of our websites, your Venmo account, the Venmo servi
 
 Actions We May Take if You Engage in Any Restricted Activities
 
-If we believe that you’ve engaged in any restricted activities, we may take a number of actions to protect ourselves, our customers and others at any time in our sole discretion. The actions we may take include, but are not limited to, the following:
+If we believe that you���ve engaged in any restricted activities, we may take a number of actions to protect ourselves, our customers and others at any time in our sole discretion. The actions we may take include, but are not limited to, the following:
 
 *   Terminate this user agreement, limit your Venmo and/or PayPal account, and/or close or suspend your Venmo and/or PayPal account, including cancelling your Venmo Debit Card (if any), immediately and without penalty to us;
     
