@@ -3,7 +3,7 @@ User Agreement
 
 ### Last updated
 
-This user agreement will be effective on January 2nd, 2021.
+This user agreement will be effective on January 19th, 2021.
 
 Welcome to Venmo!
 
@@ -401,15 +401,15 @@ If you choose to dispute a transaction with us under the Venmo Purchase Program 
 
 Before contacting your card issuer or filing a dispute with us under the Venmo Purchase Program, you should contact the seller to attempt to resolve your issue in accordance with the seller’s return policy.
 
-### Venmo Rewards
+### Venmo Offers
 
-You can earn Venmo Rewards by making qualifying purchases from authorized merchants using a QR code or with your Venmo Mastercard debit card at participating merchants. For the current list of participating merchants and offers, please check the Venmo app. Participating merchants and offer terms may be changed from time to time without notice.
+You can earn Venmo Offers by making qualifying purchases from authorized merchants using a QR code or with your Venmo Debit Card at participating merchants. For the current list of participating merchants and offers, please check the Venmo app. Participating merchants and offer terms may be changed from time to time without notice.
 
-Venmo will post the Venmo Rewards amount to your Venmo account based on the information we receive from our third-party service provider.
+Venmo will post the Venmo Offers cash back amount to your Venmo account based on the information we receive from our third-party service provider.
 
-If you return, charge back, cancel, dispute, or otherwise request a refund for a qualifying purchase for which you have already received Venmo Rewards, we reserve the right to remove any related Venmo Rewards amount from your Venmo account or apply future Venmo Rewards to any such amount.
+If you return, charge back, cancel, dispute, or otherwise request a refund for a qualifying purchase for which you have already received Venmo Offers cash back, we reserve the right to remove any related Venmo Offers cash back amount from your Venmo account or apply future Venmo Offers cash back to any such amount. To opt-out of the Venmo Offers program, please contact customer service at 855-204-4090.
 
-For full Venmo Rewards terms, please review the [Venmo Rewards Powered by DOSH Terms of Service and Privacy Policy](https://dosh.cash/venmo-rewards-by-dosh-terms).
+By using Venmo Offers, you consent to us sharing your information with Dosh and are agreeing to the  [Venmo Offers Powered by DOSH Terms of Service and Privacy Policy](https://dosh.cash/venmo-rewards-by-dosh-terms).
 
 ### Refunds, Reversals and Chargebacks
 
