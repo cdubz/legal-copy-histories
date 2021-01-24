@@ -8,7 +8,7 @@ Introduction
 
 #### What documents make up the TOS?
 
-We refer to the Terms of Service as the **“TOS”**
+We refer to the Terms of Service as the **“TOS��**
 
 This page lays out the core of our TOS, but we also have other contractual documents that you can think of as additional terms for specific topics. Legally speaking, these other documents are incorporated by reference as if they were written here and form part of the overall TOS. Therefore, you should also review these other documents, which can be found at the links below:
 
