@@ -19,7 +19,7 @@ Our website has our contact information: [https://www.fastmail.com/about/company
 
 You should be aware that your information may be held in databases which can be accessed by other Fastmail companies and their partners or service providers worldwide. We employ people through different Fastmail companies and partners, depending on where they live and those Fastmail companies and partners provide service, at the same level of quality and with the same policies throughout the world. We provide more information on our worldwide service locations and partners in this policy.
 
-You can read about where data is held on our [security](/help/ourservice/security.html) help page.
+You can read about where data is held on our [security](https://www.fastmail.help/hc/en-us/articles/1500000280221) help page.
 
 This privacy policy explains how we collect, use and share personal information in the course of our business activities, including:
 
@@ -68,7 +68,7 @@ We may also collect personal information such as IP address, device information 
 
 We process mail sent and received from your account to block spam and fraud. We receive information from third party services to assist us in identifying spam. If you report a message to us, either through the service or via customer support, as spam or not spam, we may share that message with the third party service that flagged it to improve the accuracy of future filtering. See further below on your rights when we disclose your information to our third party service providers.
 
-We also store information from your address book, calendar, notes and files on our servers until you delete them (for more information on data retention see our [security help page](/help/ourservice/security.html)). We will also share this information with your devices and external accounts where you have authorised us to do so.
+We also store information from your address book, calendar, notes and files on our servers until you delete them (for more information on data retention see our [security help page](https://www.fastmail.help/hc/en-us/articles/1500000280221)). We will also share this information with your devices and external accounts where you have authorised us to do so.
 
 We also collect the email content you create, upload, or receive from others when using our services. We use this information to deliver our services, like processing the terms you search for in order to return results or helping you add addresses to messages by suggesting recipients from your contacts.
 
@@ -195,7 +195,7 @@ How we protect and store your information
 
 We store most of your personal information electronically. We implement and maintain appropriate technical and organisational security measures, policies and procedures designed to reduce the risk of accidental destruction or loss, misuse or interference or the unauthorised disclosure, access or modification to such information appropriate to the nature of the information concerned.
 
-The security of your information is paramount and a critical consideration for Fastmail in the provision of its services to you. Please see further information on the [security measures](https://www.fastmail.com/help/ourservice/security.html) we engage on our websites and platform and when you use any of our services.
+The security of your information is paramount and a critical consideration for Fastmail in the provision of its services to you. Please see further information on the [security measures](https://www.fastmail.help/hc/en-us/articles/1500000280221) we engage on our websites and platform and when you use any of our services.
 
 We work hard to protect you and Fastmail from unauthorised access, alteration, disclosure, or destruction of information we hold. Measures we take include:
 
@@ -260,7 +260,7 @@ You may have these rights under applicable laws, including the EU General Data P
 
 If your organisation, such as your employer or service provider, provides you access to and is administering your use of Fastmail products, contact your organisation to learn more about how to access and control your Personal Information.
 
-You can access and control your Personal Information that Fastmail has obtained, and exercise your data protection rights, using various tools we provide. The tools most useful to you will depend on our interactions with you and your use of our products. Please use our [help pages](/help/) first to learn about the tools available to you, but you are able to [contact us](https://www.fastmail.com/about/privacy/#contact) to exercise your rights.
+You can access and control your Personal Information that Fastmail has obtained, and exercise your data protection rights, using various tools we provide. The tools most useful to you will depend on our interactions with you and your use of our products. Please use our [help pages](https://www.fastmail.help) first to learn about the tools available to you, but you are able to [contact us](https://www.fastmail.com/about/privacy/#contact) to exercise your rights.
 
 We may ask you for additional information to confirm your identity and for security purposes, in particular before disclosing personal information to you.
 
