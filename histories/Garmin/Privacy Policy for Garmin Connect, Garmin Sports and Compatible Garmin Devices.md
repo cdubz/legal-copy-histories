@@ -121,7 +121,7 @@ When you interact with our customer support representatives via email, telephone
 
 > ### Purpose and Legal Ground:
 > 
-> We use this information to provide you with customer and product support and to monitor the quality and types of customer and product support we provide to our customers. The legal ground for processing this information for these purposes is Garmin’s legitimate interests in providing quality product support. The legal ground for signing in to your Garmin account, if appropriate, to help troubleshoot and resolve your issue is consent, which you may withdraw.
+> We use this information to provide you with customer and product support and to monitor the quality and types of customer and product support we provide to our customers. The legal ground for processing this information for these purposes is Garmin��s legitimate interests in providing quality product support. The legal ground for signing in to your Garmin account, if appropriate, to help troubleshoot and resolve your issue is consent, which you may withdraw.
 
 Personal data that is processed when you use location-based services on your Garmin device or app:
 --------------------------------------------------------------------------------------------------
