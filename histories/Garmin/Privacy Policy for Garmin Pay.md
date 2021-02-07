@@ -138,7 +138,7 @@ We will provide notice to you if these changes are material and, where required 
 Retention of Personal Data
 ==========================
 
-We will retain your personal data as long as your Garmin account is considered to be active or, in the case of Garmin Pay users with third-party devices, until you or the data controller request deletion of your Garmin Pay wallet. In addition, see below under “Your Rights” for a description of your right of erasure.
+We will retain your personal data as long as your Garmin account is considered to be active or, in the case of Garmin Pay users with third-party devices, until you or the data controller request deletion of your Garmin Pay wallet. In addition, see below under ��Your Rights” for a description of your right of erasure.
 
 Data Controller and Data Protection Officer
 ===========================================
