@@ -62,7 +62,7 @@ When you choose to view a payment method in your Garmin Pay wallet, we will show
 Personal data that is processed when you make a purchase using your Garmin Pay wallet:
 --------------------------------------------------------------------------------------
 
-If you use your Garmin Pay wallet to make a purchase, your payment token is presented to the vendor’s point-of-sale system. After the transaction is completed, at the discretion of the issuing bank or payment network, Garmin may receive confirmation of the successful payment.
+If you use your Garmin Pay wallet to make a purchase, your payment token is presented to the vendor��s point-of-sale system. After the transaction is completed, at the discretion of the issuing bank or payment network, Garmin may receive confirmation of the successful payment.
 
 > ### PURPOSE AND LEGAL GROUND:
 > 
