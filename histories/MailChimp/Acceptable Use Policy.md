@@ -9,7 +9,8 @@ Please don’t use Mailchimp to distribute anything offensive, to promote anythi
 *   Emails that violate the CAN-SPAM or other anti-spam laws
 *   Pornography/sexually explicit content
 *   Campaigns promoting or supporting terrorism or violent extremism
-*   Products claiming to prevent, treat, or cure COVID-19; in demand due to COVID-19 with excessive pricing, price gouging, or deceptive pricing practices; or in demand due to COVID-19 and prohibited by applicable law
+*   Products claiming to prevent, treat, or cure COVID-19 that are not approved or authorized for emergency use by regulatory or public health agencies, such as the FDA in the U.S.
+*   Products that are in demand due to COVID-19 with excessive pricing, price gouging, or deceptive pricing practices or in demand due to COVID-19 and prohibited by applicable law
 
 Some industries have higher-than-average abuse complaints, which can jeopardize deliverability. In order to maintain the reliability of our platform, we do not allow businesses that offer these types of services, products, or content:
 
