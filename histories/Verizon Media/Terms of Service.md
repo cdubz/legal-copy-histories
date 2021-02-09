@@ -23,7 +23,7 @@ _In June 2017, we announced that Yahoo and AOL joined to become a unified digita
         
     3.  _Age._ If you are under the Minimum Age (as defined for your region in Section 14) you may not register for an account. Unless you are the holder of an existing account in the United States that is a Yahoo [Family Account](https://help.yahoo.com/kb/SLN5679.html), you must be at least the Minimum Age to use the Services. Certain portions of the Services contain adult and/or mature content. Please do not access that content unless you are an adult (i.e., at least the age of majority in your country) or unless otherwise expressly indicated.
         
-    4.  _Member Conduct._ You agree not to use the Services to:
+    4.  _Member conduct._ You agree not to use the Services in any manner that violates these Terms or our [Community Guidelines](/policies/us/en/verizonmedia/guidelines/index.html), including to:
         
         1.  obtain or attempt to obtain unauthorized access to the Services or to our servers, systems, network, or data;
             
@@ -554,4 +554,4 @@ _In June 2017, we announced that Yahoo and AOL joined to become a unified digita
         14.  Additional terms for German users can be found [here](https://www.verizonmedia.com/policies/ie/de/verizonmedia/terms/additionalterms/index.html).
             
 
-_Last updated: August 2020_
+_Last updated: February 2021_
