@@ -78,4 +78,4 @@ As a marketing platform with millions of customers all over the world, we feel i
 
 Thanks for taking the time to read our Acceptable Use Policy.
 
-_Updated December 18, 2020_
+_Updated February 8, 2021_
