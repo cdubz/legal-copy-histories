@@ -77,7 +77,7 @@ _In June 2017, we announced that Yahoo and AOL joined to become a unified digita
     
 5.  **Procedure for Copyright or Other Intellectual Property Infringement Claims**  
       
-    We respect the intellectual property of others, and we expect our users to do the same. We may, in appropriate circumstances and at our discretion, disable, terminate, and/or take other appropriate steps relating to the accounts of users who may be infringers. If you believe that your copyright or intellectual property rights have been infringed, please follow the instructions provided [here](/policies/us/en/verizonmedia/ip/index.html)
+    We respect the intellectual property of others, and we expect our users to do the same. We may, in appropriate circumstances and at our discretion, disable, terminate, and/or take other appropriate steps relating to the accounts of users who may be infringers. If you believe that your copyright or intellectual property rights have been infringed, please follow the instructions provided [here](/policies/us/en/verizonmedia/ip/index.html).
     
 6.  **Content in the Services and License Grant to** **Verizon Media** 
     
