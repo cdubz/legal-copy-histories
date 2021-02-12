@@ -157,7 +157,7 @@ You may choose to join training activities or participate in competitions with o
 Family members of vívofit jr. Challenge participants:
 -----------------------------------------------------
 
-When you choose to participate in Challenges that include participants who are part of a vívofit jr. family account, Challenge participants and anyone in their family account may view your data relating to the Challenge and its Leaderboard, even if they are not participating in the Challenge and even if your privacy settings in your Garmin account are set to “Private.”
+When you choose to participate in Challenges that include participants who are part of a vívofit jr. family account, Challenge participants and anyone in their family account may view your data relating to the Challenge and its Leaderboard, even if they are not participating in the Challenge and even if your privacy settings in your Garmin account are set to “Private.���
 
 Your LiveTrack invitees:
 ------------------------
