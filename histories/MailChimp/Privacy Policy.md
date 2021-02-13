@@ -251,7 +251,7 @@ We respond to all requests we receive from individuals wishing to exercise their
 
 ###### A. How We Share Information
 
-We may share and disclose your Personal Information with our subsidiaries or Affiliates and to the following types of third parties for the purposes described in this privacy policy **(for purposes of this section, "you" and "your" refer to Members, Contacts, and Visitors unless otherwise indicated)**. Our subsidiaries and Affiliates include Courier Holdings Ltd. located in the United Kingdom. You can learn more about Courier and its privacy practices [here](https://couriermedia.co/privacy/ "Courier Privacy Policy").
+We may share and disclose your Personal Information with our subsidiaries or Affiliates and to the following types of third parties for the purposes described in this privacy policy **(for purposes of this section, "you" and "your" refer to Members, Contacts, and Visitors unless otherwise indicated)**. Our subsidiaries and Affiliates include Courier Holdings Ltd. located in the United Kingdom. You can learn more about Courier and its privacy practices [here](https://couriermedia.com/legal/privacy-policy "Courier Privacy Policy").
 
 (i) **Our service providers**: Sometimes, we share your information with our third-party service providers working on our behalf for the purposes described in this privacy policy. For example, companies we’ve hired to help us provide and support our Service or assist in protecting and securing our systems and services and other business-related functions.
 
