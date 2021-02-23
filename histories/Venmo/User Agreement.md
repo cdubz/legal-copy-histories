@@ -3,7 +3,7 @@ User Agreement
 
 ### Last updated
 
-This user agreement will be effective on January 19th, 2021.
+This user agreement will be effective on April 1, 2021.
 
 Welcome to Venmo!
 
@@ -39,7 +39,7 @@ Keep confidential any credentials you use to access your Venmo account and the V
 
 Setting up a Business Profile
 
-Venmo may offer you the ability to create a single business profile in addition to your personal profile in your personal Venmo account. To be eligible, you must be an individual with a Venmo account in good standing and complete any required application process, including verification of the [required identifying information](#required-identifying-info). Using a business profile, you can receive payments for the sale of goods and services that do not violate the Acceptable Use Policy or any other terms between you and us. As a business profile is part of your Venmo account, any and all terms applicable to your Venmo account will also govern the business profile, unless otherwise specifically stated.
+Venmo may offer you the ability to create a single business profile in addition to your personal profile in your personal Venmo account. To be eligible, you must be an individual with a Venmo account in good standing and complete any required application process, including verification of the [required identifying information](#required-identifying-info). Using a business profile, you can receive payments for the sale of goods and services that do not violate the Acceptable Use Policy or any other terms between you and us, subject to applicable fees for such transactions found on the [Fees page](https://venmo.com/resources/our-fees/). If you refund a transaction to a buyer, there are no fees to make the refund, but the fees you originally paid as the seller are not returned. As a business profile is part of your Venmo account, any and all terms applicable to your Venmo account will also govern the business profile, unless otherwise specifically stated.
 
 We may restrict the use of your business profile and your Venmo account if the activity through your business profile reaches certain thresholds, involves certain activities or violates any terms between you and us. In addition, if your business profile meets certain transaction thresholds, we may require you to provide additional information and documentation to us from time to time for tax reporting or other reasons (for example, to verify your business activities or resolve claims or disputes), and we may suspend or place limits on your account until we receive the requested information and documentation.
 
@@ -85,7 +85,7 @@ Unless you add funds to your Venmo account using Direct Deposit or remote check 
 
 Adding money
 
-If we have verified the [required identifying information](#required-identifying-info) that you provide to us, Venmo may offer you the ability to add money to your Venmo balance from a linked bank account or through [Direct Deposit](#direct-deposit) and [remote check capture features](#direct-deposit), subject to the applicable fees found on the Fees page. Otherwise, you cannot add money. Remember, you may use the payment methods linked to your Venmo account to fund transactions and you don’t need a Venmo balance to send money or buy something using your Venmo account.
+If we have verified the [required identifying information](#required-identifying-info) that you provide to us, Venmo may offer you the ability to add money to your Venmo balance from a linked bank account or through [Direct Deposit](#direct-deposit) and [remote check capture features](#direct-deposit), subject to the applicable fees found on the [Fees page](https://venmo.com/resources/our-fees/). Otherwise, you cannot add money. Remember, you may use the payment methods linked to your Venmo account to fund transactions and you don’t need a Venmo balance to send money or buy something using your Venmo account.
 
 Transferring money out of Venmo
 
