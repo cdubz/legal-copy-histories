@@ -3,7 +3,7 @@ User Agreement
 
 ### Last updated
 
-This user agreement will be effective on April 1, 2021.
+This user agreement will be effective on February 24, 2021.
 
 Welcome to Venmo!
 
