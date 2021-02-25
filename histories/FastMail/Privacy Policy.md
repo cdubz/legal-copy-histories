@@ -260,7 +260,7 @@ You may have these rights under applicable laws, including the EU General Data P
 
 If your organisation, such as your employer or service provider, provides you access to and is administering your use of Fastmail products, contact your organisation to learn more about how to access and control your Personal Information.
 
-You can access and control your Personal Information that Fastmail has obtained, and exercise your data protection rights, using various tools we provide. The tools most useful to you will depend on our interactions with you and your use of our products. Please use our [help pages](https://www.fastmail.help) first to learn about the tools available to you, but you are able to [contact us](https://www.fastmail.com/about/privacy/#contact) to exercise your rights.
+You can access and control your Personal Information that Fastmail has obtained, and exercise your data protection rights, using various tools we provide. The tools most useful to you will depend on our interactions with you and your use of our products. Please use our [help pages](https://www.fastmail.help/hc/en-us) first to learn about the tools available to you, but you are able to [contact us](https://www.fastmail.com/about/privacy/#contact) to exercise your rights.
 
 We may ask you for additional information to confirm your identity and for security purposes, in particular before disclosing personal information to you.
 
