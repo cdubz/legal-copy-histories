@@ -58,7 +58,7 @@ Terms & Conditions of the TOS
 
 1.4 We may, in our sole discretion, refuse to provide or continue providing the Websites and Services to any person or entity and change eligibility criteria at any time, including if you fail to comply with the TOS. We reserve the right to deactivate, terminate, prevent access to, disable services for, and/or delete any Accounts or access to the Websites and Services at any time at our sole discretion.
 
-### 2\. DigitalOcean’s Proprietary Rights
+### 2\. DigitalOcean��s Proprietary Rights
 
 2.1 As between you and DigitalOcean, the Websites and Services are owned and/or provided by DigitalOcean. The names, logos, trademarks, trade dress, arrangements, visual interfaces, graphics, design, compilation, information, data, computer code (including source code or object code), products, software, services, and all other elements of the Websites and Services (**“Materials”**) that we provide are protected by intellectual property and other laws. All Materials included in the Websites and Services are the property of DigitalOcean or its third party licensors. You may only use the Websites and Services as expressly authorized by us and as set forth in this TOS. You shall abide by and maintain all intellectual property notices, information, and restrictions contained in the Websites and Services. We reserve all rights to the Websites and Services not granted expressly in this TOS.
 
