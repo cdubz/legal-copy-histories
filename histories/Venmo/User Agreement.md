@@ -158,7 +158,7 @@ You can send money to or request money from a Venmo user using the compose payme
 
 Making payments with friends
 
-You can send money to or request money from a friend, even if they don’t have a Venmo account at the time you send the payment, using their email address or mobile number. If the friend does not have a Venmo account, they can claim the payment by opening a Venmo account. If they don’t claim any money sent within 30 days of the date it is sent, the payment will be cancelled and any money (including any fees you were charged) will be sent back to you.
+You can send money to or request money from a friend, even if they don���t have a Venmo account at the time you send the payment, using their email address or mobile number. If the friend does not have a Venmo account, they can claim the payment by opening a Venmo account. If they don’t claim any money sent within 30 days of the date it is sent, the payment will be cancelled and any money (including any fees you were charged) will be sent back to you.
 
 Payments to a business profile
 
