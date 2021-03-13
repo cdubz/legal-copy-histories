@@ -1,4 +1,4 @@
-_Updated February 17, 2021_
+_Updated March 12, 2021_
 
 Mailchimp takes data privacy seriously. This privacy policy explains who we are, how we collect, share and use Personal Information, and how you can exercise your privacy rights.
 
@@ -227,7 +227,7 @@ We may use the information we collect through our Mailchimp Sites and in connect
 
 ###### C. Public Information and Third-Party Websites
 
-*   **Blog.** We have public blogs on the Mailchimp Sites. Any information you include in a comment on our blog may be read, collected, and used by anyone. If your Personal Information appears on our blogs and you want it removed, contact us [here](/contact/ "Mailchimp Contact form"). If we are unable to remove your information, we will tell you why.
+*   **Blog.** We have public blogs on the Mailchimp Sites. Any information you include in a comment on our blog may be read, collected, and used by anyone. If your Personal Information appears on our blogs and you want it removed, contact us at privacy@mailchimp.com. If we are unable to remove your information, we will tell you why.
 *   **Social media platforms and widgets.** The Mailchimp Sites include social media features, such as the Facebook Like button. These features may collect information about your IP address and which page you are visiting on our Mailchimp Site, and they may set a cookie to make sure the feature functions properly. Social media features and widgets are either hosted by a third party or hosted directly on our Mailchimp Site. We also maintain presences on social media platforms, including Facebook, Twitter, and Instagram. Any information, communications, or materials you submit to us via a social media platform is done at your own risk without any expectation of privacy. We cannot control the actions of other users of these platforms or the actions of the platforms themselves. Your interactions with those features and platforms are governed by the privacy policies of the companies that provide them.
 *   **Links to third-party websites.** The Mailchimp Sites include links to other websites, whose privacy practices may be different from ours. If you submit Personal Information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any website you visit.
 *   **Contests and sweepstakes.** We may, from time to time, offer surveys, contests, sweepstakes, or other promotions on the Mailchimp Sites or through social media (collectively, "Promotions"). Participation in our Promotions is completely voluntary. Information requested for entry may include Personal Information such as your name, address, date of birth, phone number, email address, username, and similar details. We use the information you provide to administer our Promotions. We may also, unless prohibited by the Promotion’s rules or law, use the information provided to communicate with you, or other people you select, about our Service. We may share this information with our subsidiaries or Affiliates and other organizations or service providers in line with this privacy policy and the rules posted for our Promotions.
@@ -367,7 +367,7 @@ We may change this privacy policy at any time and from time to time. The most re
 
 ###### J. Questions & Concerns
 
-If you have any questions or comments, or if you have a concern about the way in which we have handled any privacy matter, please use our [contact form](/contact/ "Mailchimp Contact form") to send us a message. You may also contact us by postal mail or email at:
+If you have any questions or comments, or if you have a concern about the way in which we have handled any privacy matter, please send an email to privacy@mailchimp.com. You may also contact us by postal mail or email at:
 
 **For EEA, Swiss and UK Residents:**
 

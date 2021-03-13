@@ -10,7 +10,7 @@ Mailchimp uses Google Maps and YouTube to provide certain features of the Servic
 
 If you download the App through the Apple App Store, Google Play or other app store or distribution platform (“App Provider”), you acknowledge and agree that: (i) these Terms are between us, and not with the App Provider, and that we are responsible for the Service, not the App Provider; (ii) the App Provider has no obligation to furnish maintenance and support services or handle any warranty claims; (iii) the App Provider is not responsible for addressing any claims you or any third party have relating to the App; and (iv) the App Provider is a third party beneficiary of these Terms as related to your use of the App, and the App Provider will have the right to enforce these Terms as related to your use of the App against you.
 
-If you have any questions about our Terms, feel free to [contact us](/contact/ "Mailchimp's Contact Us form").
+If you have any questions about our Terms, feel free to contact us at legal@mailchimp.com.
 
 Account
 -------
@@ -275,4 +275,4 @@ Congratulations! You’ve reached the end.
 
 Thanks for taking the time to learn about Mailchimp’s policies.
 
-_Updated November 23, 2020._
+_Updated March 12, 2021._
