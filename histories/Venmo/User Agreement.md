@@ -433,7 +433,7 @@ When recovering the amount of an invalidated payment from you, we may apply any 
     
 *   take any or all action as outlined under [Amounts Owed to Us](#amounts-owed-to-us); and
     
-*   place a limitation or take other action on your Venmo account as outlined under [Restricted Activities](#restricted-activities) and��[Holds and Limitations](#holds).
+*   place a limitation or take other action on your Venmo account as outlined under [Restricted Activities](#restricted-activities) and [Holds and Limitations](#holds).
     
 
 If we invalidate a payment because the card issuer or originating bank declined or reversed the transaction, then you may be liable for the payment even if you disagree with the decision of the card issuer or originating bank to decline or reverse the payment. If you believe that a payment initiated with your Venmo account was not authorized, then you must notify us immediately, even if you (or someone else) disputes the transaction with the card issuer or originating bank. Please see below under the heading [Reporting an Unauthorized Transaction](#protection-from-unauthorized-transactions) for information about how to notify us. If you fail to report the unauthorized activity directly to us, then we may recover the amount of the reversed payment from you, as described above.
