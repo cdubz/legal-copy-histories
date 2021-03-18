@@ -114,7 +114,7 @@ This Data Processing Agreement (“DPA”) is an addendum to the Customer Terms 
 **9.4** This DPA shall be governed by and construed in accordance with governing law and jurisdiction provisions in the Agreement, unless required otherwise by Data Protection Laws.
 
 **DigitalOcean, LLC**  
-**Name:** Alan Shapiro  
+**Name:**��Alan Shapiro  
 **Title:** General Counsel
 
 Annex A - List of DigitalOcean Sub-processors
