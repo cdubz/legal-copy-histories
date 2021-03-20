@@ -4,7 +4,7 @@ Last Updated January 15, 2021
 
 For California residents, please [click here](#calprivacy) to learn more about your privacy rights.
 
-Welcome to the Y Combinator website (including all websites to which this Privacy Policy is posted, the **“Site”**), which is operated by Y Combinator Management, LLC and its affiliates (collectively, “**Y Combinator**,” “**we**”, “**us**” and/or “**our**”). This Site provides, among other things, information about our people, organization and application process, tools for applicants to submit applications and go through the application process, our blog, forums for discussions about topics relevant to startups, and profiles of founders and companies that have participated in the Y Combinator program (collectively the “**Service**”).
+Welcome to the Y Combinator website (including all websites to which this Privacy Policy is posted, the **“Site”**), which is operated by Y Combinator Management, LLC and its affiliates (collectively, “**Y Combinator**,” “**we**���, “**us**” and/or “**our**”). This Site provides, among other things, information about our people, organization and application process, tools for applicants to submit applications and go through the application process, our blog, forums for discussions about topics relevant to startups, and profiles of founders and companies that have participated in the Y Combinator program (collectively the “**Service**”).
 
 This Privacy Policy explains what Personal Information (defined below) we collect, how we use and share that data, and your choices concerning our data practices. This Privacy Policy is incorporated into and forms part of our [Terms of Service](https://www.ycombinator.com/legal/).
 
