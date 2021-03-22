@@ -1,7 +1,7 @@
 Terms of Use
 ============
 
-Last updated: March 11, 2020
+Last updated: March 11, 2021
 
 Welcome to the Internet sites of Garmin Ltd. and its subsidiaries ("Garmin"). "Garmin Sites" include [garmin.com](https://www.garmin.com), [fusionentertainment.com](https://www.fusionentertainment.com), [tacx.com](https://www.tacx.com/), [garmin.blogs.com](https://garmin.blogs.com), [my.garmin.com](https://my.garmin.com), [connect.garmin.com](https://connect.garmin.com), [thisisant.com](https://www.thisisant.com), [FltPlan.com](https://www.FltPlan.com) and other Internet sites on which these Terms of Use are posted. The Garmin Sites, products and content may be branded Fusion®, Tacx®, ANTTM, ANT+®, FltPlan® or other brand owned by Garmin. Garmin is sometimes referred to herein as "we," "us" or "our."
 
